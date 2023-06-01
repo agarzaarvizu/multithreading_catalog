@@ -1,0 +1,4 @@
+build/
+catalog_import.egg-info/
+dist/
+**/__pycache__/

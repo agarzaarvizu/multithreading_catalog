@@ -1,0 +1,4328 @@
+<?xml version="1.0"?>
+<Products>
+  <test/>
+  <Product ID="1762561">
+    <SKU><![CDATA[ACER_NX.A91AA.001]]></SKU>
+    <MPN><![CDATA[NX.A91AA.001]]></MPN>
+    <EANS>
+      <EAN><![CDATA[0195133102377]]></EAN>
+      <EAN><![CDATA[195133102377]]></EAN>
+    </EANS>
+    <Brand>
+      <BrandID>103542</BrandID>
+      <BrandName><![CDATA[Acer]]></BrandName>
+    </Brand>
+    <ProductType>notebooks</ProductType>
+    <Category>
+      <CategoryId>5459</CategoryId>
+      <CategoryName><![CDATA[Notebooks]]></CategoryName>
+      <IcecatUnspsc>43171801</IcecatUnspsc>
+    </Category>
+    <Description>
+      <ProductName><![CDATA[Acer Chromebook R853TA-C7KT N5100 30,5 cm (12") Pantalla táctil HD+ Intel® Celeron® 4 GB LPDDR4x-SDRAM 32 GB Flash Wi-Fi 6 (802.11ax) ChromeOS Negro]]></ProductName>
+      <ShortSummaryDescription><![CDATA[Intel Celeron N5100 1.10 GHz, 12", LCD, IPS, 1366 x 912, 4 GB, LPDDR4X, 32 GB Flash, Bluetooth 5.0, ChromeOS]]></ShortSummaryDescription>
+      <ShortDescription><![CDATA[Intel Celeron N5100 1.10 GHz, 12", LCD, IPS, 1366 x 912, 4 GB, LPDDR4X, 32 GB Flash, Bluetooth 5.0, ChromeOS]]></ShortDescription>
+      <LongDescription><![CDATA[<p id='ice_summary_long_description'>Acer Chromebook R853TA-C7KT. Tipo de producto: Chromebook, Factor de forma: Convertible (Carpeta). Familia de procesador: Intel® Celeron®, Modelo del procesador: N5100, Frecuencia del procesador: 1,1 GHz. Diagonal de la pantalla: 30,5 cm (12"), Tipo HD: HD+, Resolución de la pantalla: 1366 x 912 Pixeles, Pantalla táctil. Memoria interna: 4 GB, Tipo de memoria interna: LPDDR4x-SDRAM. Capacidad total de almacenaje: 32 GB, Unidad de almacenamiento: Flash. Sistema operativo instalado: ChromeOS. Color del producto: Negro</p>]]></LongDescription>
+    </Description>
+    <Warehouses>
+      <Warehouse>
+        <WarehouseId>30</WarehouseId>
+        <WarehouseName>Supplier Y</WarehouseName>
+        <IsSelected>true</IsSelected>
+        <WarehouseRecommendedRetailPrice>0.0000</WarehouseRecommendedRetailPrice>
+        <Stock>0</Stock>
+        <DPN>NX.A91AA.001</DPN>
+      </Warehouse>
+    </Warehouses>
+    <Prices>
+      <PriceGroup>
+        <PriceGroupName>general</PriceGroupName>
+        <PromoPrice>0.0000</PromoPrice>
+      </PriceGroup>
+    </Prices>
+    <Attributes>
+      <Attribute ID="94662">
+        <Name><![CDATA[Display resolution]]></Name>
+        <Label><![CDATA[display_resolution]]></Label>
+        <Value><![CDATA[1366 x 912]]></Value>
+        <PresentationValue><![CDATA[1366 x 912]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94664">
+        <Name><![CDATA[HD type]]></Name>
+        <Label><![CDATA[hd_type]]></Label>
+        <Value><![CDATA[HD+]]></Value>
+        <PresentationValue><![CDATA[HD+]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94666">
+        <Name><![CDATA[LED backlight]]></Name>
+        <Label><![CDATA[led_backlight]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94669">
+        <Name><![CDATA[Processor frequency]]></Name>
+        <Label><![CDATA[processor_frequency]]></Label>
+        <Value><![CDATA[1.1]]></Value>
+        <PresentationValue><![CDATA[1.1]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94670">
+        <Name><![CDATA[Processor family]]></Name>
+        <Label><![CDATA[processor_family]]></Label>
+        <Value><![CDATA[Intel Celeron]]></Value>
+        <PresentationValue><![CDATA[Intel Celeron]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94671">
+        <Name><![CDATA[Processor model]]></Name>
+        <Label><![CDATA[processor_model]]></Label>
+        <Value><![CDATA[N5100]]></Value>
+        <PresentationValue><![CDATA[N5100]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94672">
+        <Name><![CDATA[Processor boost frequency]]></Name>
+        <Label><![CDATA[processor_boost_frequency]]></Label>
+        <Value><![CDATA[2.8]]></Value>
+        <PresentationValue><![CDATA[2.8]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94673">
+        <Name><![CDATA[Processor cores]]></Name>
+        <Label><![CDATA[processor_cores]]></Label>
+        <Value><![CDATA[4]]></Value>
+        <PresentationValue><![CDATA[4]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94675">
+        <Name><![CDATA[Processor cache]]></Name>
+        <Label><![CDATA[processor_cache]]></Label>
+        <Value><![CDATA[4]]></Value>
+        <PresentationValue><![CDATA[4]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94676">
+        <Name><![CDATA[Processor cache type]]></Name>
+        <Label><![CDATA[processor_cache_type]]></Label>
+        <Value><![CDATA[L3]]></Value>
+        <PresentationValue><![CDATA[L3]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94688">
+        <Name><![CDATA[Internal memory]]></Name>
+        <Label><![CDATA[internal_memory]]></Label>
+        <Value><![CDATA[4]]></Value>
+        <PresentationValue><![CDATA[4]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94690">
+        <Name><![CDATA[Total storage capacity]]></Name>
+        <Label><![CDATA[total_storage_capacity]]></Label>
+        <Value><![CDATA[32]]></Value>
+        <PresentationValue><![CDATA[32]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94691">
+        <Name><![CDATA[Storage media]]></Name>
+        <Label><![CDATA[storage_media]]></Label>
+        <Value><![CDATA[Flash]]></Value>
+        <PresentationValue><![CDATA[Flash]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94692">
+        <Name><![CDATA[Card reader integrated]]></Name>
+        <Label><![CDATA[card_reader_integrated]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94693">
+        <Name><![CDATA[Compatible memory cards]]></Name>
+        <Label><![CDATA[compatible_memory_cards]]></Label>
+        <Value><![CDATA[MicroSD (TransFlash)]]></Value>
+        <PresentationValue><![CDATA[MicroSD (TransFlash)]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94695">
+        <Name><![CDATA[On-board graphics adapter]]></Name>
+        <Label><![CDATA[on-board_graphics_card]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94696">
+        <Name><![CDATA[Discrete graphics adapter]]></Name>
+        <Label><![CDATA[discrete_graphics_card]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94697">
+        <Name><![CDATA[On-board graphics adapter model]]></Name>
+        <Label><![CDATA[on-board_graphics_card_model]]></Label>
+        <Value><![CDATA[Intel UHD Graphics]]></Value>
+        <PresentationValue><![CDATA[Intel UHD Graphics]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94698">
+        <Name><![CDATA[Discrete graphics adapter model]]></Name>
+        <Label><![CDATA[discrete_graphics_card_model]]></Label>
+        <Value><![CDATA[Not available]]></Value>
+        <PresentationValue><![CDATA[Not available]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94709">
+        <Name><![CDATA[Built-in microphone]]></Name>
+        <Label><![CDATA[built-in_microphone]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94712">
+        <Name><![CDATA[Front camera]]></Name>
+        <Label><![CDATA[front_camera]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94715">
+        <Name><![CDATA[Optical drive type]]></Name>
+        <Label><![CDATA[optical_drive_type]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94717">
+        <Name><![CDATA[Bluetooth]]></Name>
+        <Label><![CDATA[bluetooth]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94720">
+        <Name><![CDATA[Top Wi-Fi standard]]></Name>
+        <Label><![CDATA[top_wi-fi_standard]]></Label>
+        <Value><![CDATA[Wi-Fi 6 (802.11ax)]]></Value>
+        <PresentationValue><![CDATA[Wi-Fi 6 (802.11ax)]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94722">
+        <Name><![CDATA[Wi-Fi standards]]></Name>
+        <Label><![CDATA[wi-fi_standards]]></Label>
+        <Value><![CDATA[802.11a,802.11b,802.11g,Wi-Fi 4 (802.11n),Wi-Fi 5 (802.11ac),Wi-Fi 6 (802.11ax)]]></Value>
+        <PresentationValue><![CDATA[802.11a,802.11b,802.11g,Wi-Fi 4 (802.11n),Wi-Fi 5 (802.11ac),Wi-Fi 6 (802.11ax)]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94724">
+        <Name><![CDATA[Bluetooth version]]></Name>
+        <Label><![CDATA[bluetooth_version]]></Label>
+        <Value><![CDATA[5.0]]></Value>
+        <PresentationValue><![CDATA[5.0]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94730">
+        <Name><![CDATA[Combo headphone/mic port]]></Name>
+        <Label><![CDATA[combo_headphone/mic_port]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94734">
+        <Name><![CDATA[Numeric keypad]]></Name>
+        <Label><![CDATA[numeric_keypad]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94735">
+        <Name><![CDATA[Pointing device]]></Name>
+        <Label><![CDATA[pointing_device]]></Label>
+        <Value><![CDATA[Touchpad]]></Value>
+        <PresentationValue><![CDATA[Touchpad]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94739">
+        <Name><![CDATA[Operating system installed]]></Name>
+        <Label><![CDATA[operating_system_installed]]></Label>
+        <Value><![CDATA[ChromeOS]]></Value>
+        <PresentationValue><![CDATA[ChromeOS]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94747">
+        <Name><![CDATA[Intel 64]]></Name>
+        <Label><![CDATA[intel_64]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94751">
+        <Name><![CDATA[Intel Virtualization Technology (VT-x)]]></Name>
+        <Label><![CDATA[intel_virtualization_technology_(vt-x)]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94755">
+        <Name><![CDATA[Battery technology]]></Name>
+        <Label><![CDATA[battery_technology]]></Label>
+        <Value><![CDATA[Lithium-Ion (Li-Ion)]]></Value>
+        <PresentationValue><![CDATA[Lithium-Ion (Li-Ion)]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94757">
+        <Name><![CDATA[AC adapter power]]></Name>
+        <Label><![CDATA[ac_adapter_power]]></Label>
+        <Value><![CDATA[45]]></Value>
+        <PresentationValue><![CDATA[45]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94767">
+        <Name><![CDATA[Weight]]></Name>
+        <Label><![CDATA[weight]]></Label>
+        <Value><![CDATA[1301]]></Value>
+        <PresentationValue><![CDATA[1301]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94768">
+        <Name><![CDATA[Width]]></Name>
+        <Label><![CDATA[width]]></Label>
+        <Value><![CDATA[297]]></Value>
+        <PresentationValue><![CDATA[297]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94769">
+        <Name><![CDATA[Depth]]></Name>
+        <Label><![CDATA[depth]]></Label>
+        <Value><![CDATA[231]]></Value>
+        <PresentationValue><![CDATA[231]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94770">
+        <Name><![CDATA[Height]]></Name>
+        <Label><![CDATA[height]]></Label>
+        <Value><![CDATA[21]]></Value>
+        <PresentationValue><![CDATA[21]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94780">
+        <Name><![CDATA[Product family]]></Name>
+        <Label><![CDATA[product_family]]></Label>
+        <Value><![CDATA[Chromebook]]></Value>
+        <PresentationValue><![CDATA[Chromebook]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94781">
+        <Name><![CDATA[Product series]]></Name>
+        <Label><![CDATA[product_series]]></Label>
+        <Value><![CDATA[Spin 512]]></Value>
+        <PresentationValue><![CDATA[Spin 512]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95641">
+        <Name><![CDATA[USB 3.0 (3.1 Gen 1) Type-A ports quantity]]></Name>
+        <Label><![CDATA[usb_3.2_gen_1_(3.1_gen_1)_type-a_ports_quantity]]></Label>
+        <Value><![CDATA[2]]></Value>
+        <PresentationValue><![CDATA[2]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95642">
+        <Name><![CDATA[USB 3.0 (3.1 Gen 1) Type-C ports quantity]]></Name>
+        <Label><![CDATA[usb_3.2_gen_1_(3.1_gen_1)_type-c_ports_quantity]]></Label>
+        <Value><![CDATA[2]]></Value>
+        <PresentationValue><![CDATA[2]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95649">
+        <Name><![CDATA[Enhanced Intel SpeedStep Technology]]></Name>
+        <Label><![CDATA[enhanced_intel_speedstep_technology]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95655">
+        <Name><![CDATA[Intel Trusted Execution Technology]]></Name>
+        <Label><![CDATA[intel_trusted_execution_technology]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95657">
+        <Name><![CDATA[Intel VT-x with Extended Page Tables (EPT)]]></Name>
+        <Label><![CDATA[intel_vt-x_with_extended_page_tables_(ept)]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95662">
+        <Name><![CDATA[Intel Software Guard Extensions (Intel SGX)]]></Name>
+        <Label><![CDATA[intel_software_guard_extensions_(intel_sgx)]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95665">
+        <Name><![CDATA[Idle States]]></Name>
+        <Label><![CDATA[idle_states]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95668">
+        <Name><![CDATA[CPU configuration (max)]]></Name>
+        <Label><![CDATA[cpu_configuration_(max)]]></Label>
+        <Value><![CDATA[1]]></Value>
+        <PresentationValue><![CDATA[1]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95669">
+        <Name><![CDATA[Intel Virtualization Technology for Directed I/O (VT-d)]]></Name>
+        <Label><![CDATA[intel_virtualization_technology_for_directed_i/o_(vt-d)]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95670">
+        <Name><![CDATA[Number of battery cells]]></Name>
+        <Label><![CDATA[number_of_battery_cells]]></Label>
+        <Value><![CDATA[3]]></Value>
+        <PresentationValue><![CDATA[3]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95671">
+        <Name><![CDATA[Battery capacity (Watt hours)]]></Name>
+        <Label><![CDATA[battery_capacity]]></Label>
+        <Value><![CDATA[48]]></Value>
+        <PresentationValue><![CDATA[48]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95675">
+        <Name><![CDATA[Trusted Platform Module (TPM)]]></Name>
+        <Label><![CDATA[trusted_platform_module_(tpm)]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95909">
+        <Name><![CDATA[Microphone in]]></Name>
+        <Label><![CDATA[microphone_in]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95910">
+        <Name><![CDATA[Keyboard backlit]]></Name>
+        <Label><![CDATA[keyboard_backlit]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95914">
+        <Name><![CDATA[Password protection]]></Name>
+        <Label><![CDATA[password_protection]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="96277">
+        <Name><![CDATA[Internal memory type]]></Name>
+        <Label><![CDATA[internal_memory_type]]></Label>
+        <Value><![CDATA[LPDDR4x-SDRAM]]></Value>
+        <PresentationValue><![CDATA[LPDDR4x-SDRAM]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="97979">
+        <Name><![CDATA[Battery life (max)]]></Name>
+        <Label><![CDATA[battery_life_(max)]]></Label>
+        <Value><![CDATA[12]]></Value>
+        <PresentationValue><![CDATA[12]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99767">
+        <Name><![CDATA[Processor manufacturer]]></Name>
+        <Label><![CDATA[processor_manufacturer]]></Label>
+        <Value><![CDATA[Intel]]></Value>
+        <PresentationValue><![CDATA[Intel]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99771">
+        <Name><![CDATA[Number of built-in speakers]]></Name>
+        <Label><![CDATA[number_of_built-in_speakers]]></Label>
+        <Value><![CDATA[2]]></Value>
+        <PresentationValue><![CDATA[2]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99780">
+        <Name><![CDATA[Headphone outputs]]></Name>
+        <Label><![CDATA[headphone_outputs]]></Label>
+        <Value><![CDATA[1]]></Value>
+        <PresentationValue><![CDATA[1]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="101711">
+        <Name><![CDATA[Charging port type]]></Name>
+        <Label><![CDATA[charging_port_type]]></Label>
+        <Value><![CDATA[DC-in jack]]></Value>
+        <PresentationValue><![CDATA[DC-in jack]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="102544">
+        <Name><![CDATA[Panel type]]></Name>
+        <Label><![CDATA[panel_type]]></Label>
+        <Value><![CDATA[IPS]]></Value>
+        <PresentationValue><![CDATA[IPS]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="103332">
+        <Name><![CDATA[Island-style keyboard]]></Name>
+        <Label><![CDATA[island-style_keyboard]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="103946">
+        <Name><![CDATA[Rear camera]]></Name>
+        <Label><![CDATA[rear_camera]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="104233">
+        <Name><![CDATA[Keyboard language]]></Name>
+        <Label><![CDATA[keyboard_language]]></Label>
+        <Value><![CDATA[UK English]]></Value>
+        <PresentationValue><![CDATA[UK English]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="104642">
+        <Name><![CDATA[Near Field Communication (NFC)]]></Name>
+        <Label><![CDATA[near_field_communication_(nfc)]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="105145">
+        <Name><![CDATA[Colour name]]></Name>
+        <Label><![CDATA[colour_name]]></Label>
+        <Value><![CDATA[Shale Black]]></Value>
+        <PresentationValue><![CDATA[Shale Black]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="109584">
+        <Name><![CDATA[Keyboard layout]]></Name>
+        <Label><![CDATA[keyboard_layout]]></Label>
+        <Value><![CDATA[QWERTY]]></Value>
+        <PresentationValue><![CDATA[QWERTY]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="113371">
+        <Name><![CDATA[Touch Bar]]></Name>
+        <Label><![CDATA[touch_bar]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120442">
+        <Name><![CDATA[Mobile network connection]]></Name>
+        <Label><![CDATA[mobile_network_connection]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="123802">
+        <Name><![CDATA[Colour of product]]></Name>
+        <Label><![CDATA[product_colour]]></Label>
+        <Value><![CDATA[Black]]></Value>
+        <PresentationValue><![CDATA[Black]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="123803">
+        <Name><![CDATA[Form factor]]></Name>
+        <Label><![CDATA[form_factor]]></Label>
+        <Value><![CDATA[Convertible (Folder)]]></Value>
+        <PresentationValue><![CDATA[Convertible (Folder)]]></PresentationValue>
+      </Attribute>
+    </Attributes>
+    <RelatedProducts/>
+  </Product>
+  <Product ID="1762562">
+    <SKU><![CDATA[ACER_UM.WV6AA.006]]></SKU>
+    <MPN><![CDATA[UM.WV6AA.006]]></MPN>
+    <EANS>
+      <EAN><![CDATA[0193199062727]]></EAN>
+      <EAN><![CDATA[193199062727]]></EAN>
+    </EANS>
+    <Brand>
+      <BrandID>103542</BrandID>
+      <BrandName><![CDATA[Acer]]></BrandName>
+    </Brand>
+    <ProductType>computer_monitors</ProductType>
+    <Category>
+      <CategoryId>177861</CategoryId>
+      <CategoryName><![CDATA[Computer Monitors]]></CategoryName>
+      <IcecatUnspsc>43172402</IcecatUnspsc>
+    </Category>
+    <Description>
+      <ProductName><![CDATA[Acer V6 V226HQL bid 55,9 cm (22") 1920 x 1080 Pixeles Full HD LED Negro]]></ProductName>
+      <ShortSummaryDescription><![CDATA[V226HQL BID 21.5IN LED LCD 19X10 5MS VGA 1920 x 1080 Full HD 60 HZ Twisted Nematic Film (TN Film)]]></ShortSummaryDescription>
+      <ShortDescription><![CDATA[V226HQL BID 21.5IN LED LCD 19X10 5MS VGA 1920 x 1080 Full HD 60 HZ Twisted Nematic Film (TN Film)]]></ShortDescription>
+      <LongDescription><![CDATA[<p id='ice_summary_long_description'>Acer V6 V226HQL bid. Diagonal de la pantalla: 55,9 cm (22"), Resolución de la pantalla: 1920 x 1080 Pixeles, Tipo HD: Full HD, Tecnología de visualización: LED, Tiempo de respuesta: 5 ms, Relación de aspecto nativa: 16:9. montaje VESA. Color del producto: Negro</p>]]></LongDescription>
+    </Description>
+    <Warehouses>
+      <Warehouse>
+        <WarehouseId>30</WarehouseId>
+        <WarehouseName>Supplier Y</WarehouseName>
+        <IsSelected>true</IsSelected>
+        <WarehouseRecommendedRetailPrice>5.0000</WarehouseRecommendedRetailPrice>
+        <Stock>5</Stock>
+        <DPN>UM.WV6AA.006</DPN>
+      </Warehouse>
+    </Warehouses>
+    <Prices>
+      <PriceGroup>
+        <PriceGroupName>general</PriceGroupName>
+        <PromoPrice>0.0000</PromoPrice>
+      </PriceGroup>
+    </Prices>
+    <Attributes>
+      <Attribute ID="90775">
+        <Name><![CDATA[Display diagonal]]></Name>
+        <Label><![CDATA[display_diagonal]]></Label>
+        <Value><![CDATA[22]]></Value>
+        <PresentationValue><![CDATA[22]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90776">
+        <Name><![CDATA[Display brightness (typical)]]></Name>
+        <Label><![CDATA[display_brightness_(typical)]]></Label>
+        <Value><![CDATA[250]]></Value>
+        <PresentationValue><![CDATA[250]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90777">
+        <Name><![CDATA[Display resolution]]></Name>
+        <Label><![CDATA[display_resolution]]></Label>
+        <Value><![CDATA[1920 x 1080]]></Value>
+        <PresentationValue><![CDATA[1920 x 1080]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90778">
+        <Name><![CDATA[Response time]]></Name>
+        <Label><![CDATA[response_time]]></Label>
+        <Value><![CDATA[5]]></Value>
+        <PresentationValue><![CDATA[5]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90780">
+        <Name><![CDATA[HD type]]></Name>
+        <Label><![CDATA[hd_type]]></Label>
+        <Value><![CDATA[Full HD]]></Value>
+        <PresentationValue><![CDATA[Full HD]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90781">
+        <Name><![CDATA[Display technology]]></Name>
+        <Label><![CDATA[display_technology]]></Label>
+        <Value><![CDATA[LED]]></Value>
+        <PresentationValue><![CDATA[LED]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90782">
+        <Name><![CDATA[Panel type]]></Name>
+        <Label><![CDATA[panel_type]]></Label>
+        <Value><![CDATA[TN+Film]]></Value>
+        <PresentationValue><![CDATA[TN+Film]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90784">
+        <Name><![CDATA[Contrast ratio (typical)]]></Name>
+        <Label><![CDATA[contrast_ratio_(typical)]]></Label>
+        <Value><![CDATA[1000:1]]></Value>
+        <PresentationValue><![CDATA[1000:1]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90787">
+        <Name><![CDATA[Display number of colours]]></Name>
+        <Label><![CDATA[display_number_of_colours]]></Label>
+        <Value><![CDATA[16.78 million colours]]></Value>
+        <PresentationValue><![CDATA[16.78 million colours]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90788">
+        <Name><![CDATA[Native aspect ratio]]></Name>
+        <Label><![CDATA[native_aspect_ratio]]></Label>
+        <Value><![CDATA[16:9]]></Value>
+        <PresentationValue><![CDATA[16:9]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90789">
+        <Name><![CDATA[Contrast ratio (dynamic)]]></Name>
+        <Label><![CDATA[contrast_ratio_(dynamic)]]></Label>
+        <Value><![CDATA[100000000:1]]></Value>
+        <PresentationValue><![CDATA[100000000:1]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90793">
+        <Name><![CDATA[Horizontal scan range]]></Name>
+        <Label><![CDATA[horizontal_scan_range]]></Label>
+        <Value><![CDATA[30 - 80]]></Value>
+        <PresentationValue><![CDATA[30 - 80]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90794">
+        <Name><![CDATA[Vertical scan range]]></Name>
+        <Label><![CDATA[vertical_scan_range]]></Label>
+        <Value><![CDATA[50 - 75]]></Value>
+        <PresentationValue><![CDATA[50 - 75]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90810">
+        <Name><![CDATA[Colour of product]]></Name>
+        <Label><![CDATA[product_colour]]></Label>
+        <Value><![CDATA[Black]]></Value>
+        <PresentationValue><![CDATA[Black]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90822">
+        <Name><![CDATA[DVI port]]></Name>
+        <Label><![CDATA[dvi_port]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90828">
+        <Name><![CDATA[VESA mounting]]></Name>
+        <Label><![CDATA[vesa_mounting]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90830">
+        <Name><![CDATA[VESA mounting interfaces]]></Name>
+        <Label><![CDATA[panel_mounting_interface]]></Label>
+        <Value><![CDATA[100 x 100]]></Value>
+        <PresentationValue><![CDATA[100 x 100]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90833">
+        <Name><![CDATA[Tilt angle range]]></Name>
+        <Label><![CDATA[tilt_angle_range]]></Label>
+        <Value><![CDATA[-5 - 25]]></Value>
+        <PresentationValue><![CDATA[-5 - 25]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90838">
+        <Name><![CDATA[Power consumption (typical)]]></Name>
+        <Label><![CDATA[power_consumption_(typical)]]></Label>
+        <Value><![CDATA[19.7]]></Value>
+        <PresentationValue><![CDATA[19.7]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90839">
+        <Name><![CDATA[AC input voltage]]></Name>
+        <Label><![CDATA[ac_input_voltage]]></Label>
+        <Value><![CDATA[120 - 230]]></Value>
+        <PresentationValue><![CDATA[120 - 230]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90851">
+        <Name><![CDATA[Certification]]></Name>
+        <Label><![CDATA[certification]]></Label>
+        <Value><![CDATA[TCO]]></Value>
+        <PresentationValue><![CDATA[TCO]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90858">
+        <Name><![CDATA[Width (with stand)]]></Name>
+        <Label><![CDATA[width_(with_stand)]]></Label>
+        <Value><![CDATA[508]]></Value>
+        <PresentationValue><![CDATA[508]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90859">
+        <Name><![CDATA[Depth (with stand)]]></Name>
+        <Label><![CDATA[depth_(with_stand)]]></Label>
+        <Value><![CDATA[206.76]]></Value>
+        <PresentationValue><![CDATA[206.76]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90860">
+        <Name><![CDATA[Height (with stand)]]></Name>
+        <Label><![CDATA[height_(with_stand)]]></Label>
+        <Value><![CDATA[390.4]]></Value>
+        <PresentationValue><![CDATA[390.4]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90861">
+        <Name><![CDATA[Weight (with stand)]]></Name>
+        <Label><![CDATA[weight_(with_stand)]]></Label>
+        <Value><![CDATA[3628.74]]></Value>
+        <PresentationValue><![CDATA[3628.74]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91306">
+        <Name><![CDATA[Cables included]]></Name>
+        <Label><![CDATA[cables_included]]></Label>
+        <Value><![CDATA[VGA]]></Value>
+        <PresentationValue><![CDATA[VGA]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91308">
+        <Name><![CDATA[Product family]]></Name>
+        <Label><![CDATA[product_family]]></Label>
+        <Value><![CDATA[V6]]></Value>
+        <PresentationValue><![CDATA[V6]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95071">
+        <Name><![CDATA[Screen shape]]></Name>
+        <Label><![CDATA[screen_shape]]></Label>
+        <Value><![CDATA[Flat screen]]></Value>
+        <PresentationValue><![CDATA[Flat screen]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="147304">
+        <Name><![CDATA[Touchscreen]]></Name>
+        <Label><![CDATA[touchscreen]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="147439">
+        <Name><![CDATA[Tilt adjustment]]></Name>
+        <Label><![CDATA[tilt_adjustment]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="149200">
+        <Name><![CDATA[Energy efficiency class (SDR)]]></Name>
+        <Label><![CDATA[energy_efficiency_class_(sdr)]]></Label>
+        <Value><![CDATA[F]]></Value>
+        <PresentationValue><![CDATA[F]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="149201">
+        <Name><![CDATA[Energy consumption (SDR) per 1000 hours]]></Name>
+        <Label><![CDATA[energy_consumption_(sdr)_per_1000_hours]]></Label>
+        <Value><![CDATA[19]]></Value>
+        <PresentationValue><![CDATA[19]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="149202">
+        <Name><![CDATA[Energy efficiency scale]]></Name>
+        <Label><![CDATA[energy_efficiency_scale]]></Label>
+        <Value><![CDATA[A to G]]></Value>
+        <PresentationValue><![CDATA[A to G]]></PresentationValue>
+      </Attribute>
+    </Attributes>
+    <RelatedProducts/>
+  </Product>
+  <Product ID="1762563">
+    <SKU><![CDATA[CYBERDATASYSTEMS_011187]]></SKU>
+    <MPN><![CDATA[011187]]></MPN>
+    <Brand>
+      <BrandID>117812</BrandID>
+      <BrandName><![CDATA[CyberData Systems]]></BrandName>
+    </Brand>
+    <ProductType>network_switches</ProductType>
+    <Category>
+      <CategoryId>177881</CategoryId>
+      <CategoryName><![CDATA[Network Switches]]></CategoryName>
+      <IcecatUnspsc>43222612</IcecatUnspsc>
+    </Category>
+    <Description>
+      <ProductName><![CDATA[CyberData Systems 011187 switch Gigabit Ethernet (10/100/1000) Energía sobre Ethernet (PoE) Gris]]></ProductName>
+      <ShortSummaryDescription><![CDATA[2-Port, Gigabit Ethernet, 3 x RJ-45, 1 x USB-B, PoE]]></ShortSummaryDescription>
+      <ShortDescription><![CDATA[2-Port, Gigabit Ethernet, 3 x RJ-45, 1 x USB-B, PoE]]></ShortDescription>
+      <LongDescription><![CDATA[<p id='ice_summary_long_description'>CyberData Systems 011187. Puertos tipo básico de conmutación RJ-45 Ethernet: Gigabit Ethernet (10/100/1000), Cantidad de puertos USB 2.0: 1. Estándares de red: IEEE 802.3, IEEE 802.3ab, IEEE 802.3af, IEEE 802.3u. Energía sobre Ethernet (PoE)</p>]]></LongDescription>
+    </Description>
+    <Warehouses>
+      <Warehouse>
+        <WarehouseId>30</WarehouseId>
+        <WarehouseName>Supplier Y</WarehouseName>
+        <IsSelected>true</IsSelected>
+        <WarehouseRecommendedRetailPrice>5.0000</WarehouseRecommendedRetailPrice>
+        <Stock>5</Stock>
+        <DPN>011187</DPN>
+      </Warehouse>
+    </Warehouses>
+    <Prices>
+      <PriceGroup>
+        <PriceGroupName>general</PriceGroupName>
+        <PromoPrice>0.0000</PromoPrice>
+      </PriceGroup>
+    </Prices>
+    <Attributes>
+      <Attribute ID="121212">
+        <Name><![CDATA[Basic switching RJ-45 Ethernet ports type]]></Name>
+        <Label><![CDATA[basic_switching_rj-45_ethernet_ports_type]]></Label>
+        <Value><![CDATA[Gigabit Ethernet (10/100/1000)]]></Value>
+        <PresentationValue><![CDATA[Gigabit Ethernet (10/100/1000)]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="121213">
+        <Name><![CDATA[Gigabit Ethernet (copper) ports quantity]]></Name>
+        <Label><![CDATA[gigabit_ethernet_(copper)_ports_quantity]]></Label>
+        <Value><![CDATA[3]]></Value>
+        <PresentationValue><![CDATA[3]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="121216">
+        <Name><![CDATA[USB 2.0 ports quantity]]></Name>
+        <Label><![CDATA[usb_2.0_ports_quantity]]></Label>
+        <Value><![CDATA[1]]></Value>
+        <PresentationValue><![CDATA[1]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="121218">
+        <Name><![CDATA[Networking standards]]></Name>
+        <Label><![CDATA[networking_standards]]></Label>
+        <Value><![CDATA[IEEE 802.3,IEEE 802.3ab,IEEE 802.3af,IEEE 802.3u]]></Value>
+        <PresentationValue><![CDATA[IEEE 802.3,IEEE 802.3ab,IEEE 802.3af,IEEE 802.3u]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="121219">
+        <Name><![CDATA[10G support]]></Name>
+        <Label><![CDATA[10g_support]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="121220">
+        <Name><![CDATA[Copper ethernet cabling technology]]></Name>
+        <Label><![CDATA[copper_ethernet_cabling_technology]]></Label>
+        <Value><![CDATA[1000BASE-T,100BASE-TX,10BASE-T]]></Value>
+        <PresentationValue><![CDATA[1000BASE-T,100BASE-TX,10BASE-T]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="121247">
+        <Name><![CDATA[Rack mounting]]></Name>
+        <Label><![CDATA[rack_mounting]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="121249">
+        <Name><![CDATA[Colour of product]]></Name>
+        <Label><![CDATA[product_colour]]></Label>
+        <Value><![CDATA[Grey]]></Value>
+        <PresentationValue><![CDATA[Grey]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="121260">
+        <Name><![CDATA[Power over Ethernet (PoE)]]></Name>
+        <Label><![CDATA[power_over_ethernet_(poe)]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="121267">
+        <Name><![CDATA[Width]]></Name>
+        <Label><![CDATA[width]]></Label>
+        <Value><![CDATA[91.44]]></Value>
+        <PresentationValue><![CDATA[91.44]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="121268">
+        <Name><![CDATA[Depth]]></Name>
+        <Label><![CDATA[depth]]></Label>
+        <Value><![CDATA[88.13]]></Value>
+        <PresentationValue><![CDATA[88.13]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="121269">
+        <Name><![CDATA[Height]]></Name>
+        <Label><![CDATA[height]]></Label>
+        <Value><![CDATA[29.4]]></Value>
+        <PresentationValue><![CDATA[29.4]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="121270">
+        <Name><![CDATA[Weight]]></Name>
+        <Label><![CDATA[weight]]></Label>
+        <Value><![CDATA[254]]></Value>
+        <PresentationValue><![CDATA[254]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="121283">
+        <Name><![CDATA[LED indicators]]></Name>
+        <Label><![CDATA[led_indicators]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="121315">
+        <Name><![CDATA[Certification]]></Name>
+        <Label><![CDATA[certification]]></Label>
+        <Value><![CDATA[RoHS]]></Value>
+        <PresentationValue><![CDATA[RoHS]]></PresentationValue>
+      </Attribute>
+    </Attributes>
+    <RelatedProducts/>
+  </Product>
+  <Product ID="1762564">
+    <SKU><![CDATA[DELL_770-BBJS]]></SKU>
+    <MPN><![CDATA[770-BBJS]]></MPN>
+    <EANS>
+      <EAN><![CDATA[5397063838974]]></EAN>
+      <EAN><![CDATA[0884116257165]]></EAN>
+      <EAN><![CDATA[884116257165]]></EAN>
+    </EANS>
+    <Brand>
+      <BrandID>68942</BrandID>
+      <BrandName><![CDATA[DELL]]></BrandName>
+    </Brand>
+    <ProductType>rack_accessories</ProductType>
+    <Category>
+      <CategoryId>177814</CategoryId>
+      <CategoryName><![CDATA[Computer Components]]></CategoryName>
+      <IcecatUnspsc>43201000</IcecatUnspsc>
+    </Category>
+    <Description>
+      <ProductName><![CDATA[DELL 770-BBJS accesorio de bastidor Carril de rack]]></ProductName>
+      <ShortSummaryDescription><![CDATA[ReadyRails Sliding Rails Without Cable Management Arm]]></ShortSummaryDescription>
+      <ShortDescription><![CDATA[ReadyRails Sliding Rails Without Cable Management Arm]]></ShortDescription>
+      <LongDescription><![CDATA[<p id='ice_summary_long_description'>DELL 770-BBJS. Tipo: Carril de rack, Color del producto: Acero inoxidable, Capacidad del rack: 1U</p>]]></LongDescription>
+    </Description>
+    <Warehouses>
+      <Warehouse>
+        <WarehouseId>30</WarehouseId>
+        <WarehouseName>Supplier Y</WarehouseName>
+        <IsSelected>true</IsSelected>
+        <WarehouseRecommendedRetailPrice>5.0000</WarehouseRecommendedRetailPrice>
+        <Stock>5</Stock>
+        <DPN>770-BBJS</DPN>
+      </Warehouse>
+    </Warehouses>
+    <Prices>
+      <PriceGroup>
+        <PriceGroupName>general</PriceGroupName>
+        <PromoPrice>0.0000</PromoPrice>
+      </PriceGroup>
+    </Prices>
+    <Attributes>
+      <Attribute ID="147858">
+        <Name><![CDATA[Type]]></Name>
+        <Label><![CDATA[type]]></Label>
+        <Value><![CDATA[Rack rail]]></Value>
+        <PresentationValue><![CDATA[Rack rail]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="147859">
+        <Name><![CDATA[Product colour]]></Name>
+        <Label><![CDATA[product_colour]]></Label>
+        <Value><![CDATA[Stainless steel]]></Value>
+        <PresentationValue><![CDATA[Stainless steel]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="147880">
+        <Name><![CDATA[Harmonized System (HS) code]]></Name>
+        <Label><![CDATA[harmonized_system_(hs)_code]]></Label>
+        <Value><![CDATA[85389099]]></Value>
+        <PresentationValue><![CDATA[85389099]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="148442">
+        <Name><![CDATA[Rack capacity]]></Name>
+        <Label><![CDATA[rackcapaciteit]]></Label>
+        <Value><![CDATA[1U]]></Value>
+        <PresentationValue><![CDATA[1U]]></PresentationValue>
+      </Attribute>
+    </Attributes>
+    <RelatedProducts/>
+  </Product>
+  <Product ID="1762565">
+    <SKU><![CDATA[DELL_400-AUQX]]></SKU>
+    <MPN><![CDATA[400-AUQX]]></MPN>
+    <EANS>
+      <EAN><![CDATA[5397184186657]]></EAN>
+      <EAN><![CDATA[0884116317616]]></EAN>
+      <EAN><![CDATA[884116317616]]></EAN>
+    </EANS>
+    <Brand>
+      <BrandID>68942</BrandID>
+      <BrandName><![CDATA[DELL]]></BrandName>
+    </Brand>
+    <ProductType>internal_hard_drives</ProductType>
+    <Category>
+      <CategoryId>177858</CategoryId>
+      <CategoryName><![CDATA[Internal Hard Drives]]></CategoryName>
+      <IcecatUnspsc>43201803</IcecatUnspsc>
+    </Category>
+    <Description>
+      <ProductName><![CDATA[DELL 400-AUQX disco duro interno 2.5" 2400 GB SAS]]></ProductName>
+      <ShortSummaryDescription><![CDATA[2.4TB, 10000K, SAS, 2.5"]]></ShortSummaryDescription>
+      <ShortDescription><![CDATA[2.4TB, 10000K, SAS, 2.5"]]></ShortDescription>
+      <LongDescription><![CDATA[<p id='ice_summary_long_description'>DELL 400-AUQX. Tamaño del HDD: 2.5", Capacidad del HDD: 2400 GB, Velocidad de rotación del HDD: 10000 RPM</p><p id='ice_long_description'>Aumente la capacidad de almacenamiento del sistema con el disco duro de 2.4TB de Dell.</p><p id='ice_warranty'>Warranty: Inherit the warranty of the Dell system OR one year hardware warranty</p>]]></LongDescription>
+    </Description>
+    <Warehouses>
+      <Warehouse>
+        <WarehouseId>30</WarehouseId>
+        <WarehouseName>Supplier Y</WarehouseName>
+        <IsSelected>true</IsSelected>
+        <WarehouseRecommendedRetailPrice>5.0000</WarehouseRecommendedRetailPrice>
+        <Stock>5</Stock>
+        <DPN>400-AUQX</DPN>
+      </Warehouse>
+    </Warehouses>
+    <Prices>
+      <PriceGroup>
+        <PriceGroupName>general</PriceGroupName>
+        <PromoPrice>0.0000</PromoPrice>
+      </PriceGroup>
+    </Prices>
+    <Attributes>
+      <Attribute ID="90621">
+        <Name><![CDATA[Hard drive capacity]]></Name>
+        <Label><![CDATA[hard_drive_capacity]]></Label>
+        <Value><![CDATA[2400]]></Value>
+        <PresentationValue><![CDATA[2400]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90623">
+        <Name><![CDATA[Hard drive speed]]></Name>
+        <Label><![CDATA[hard_drive_speed]]></Label>
+        <Value><![CDATA[10000]]></Value>
+        <PresentationValue><![CDATA[10000]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90624">
+        <Name><![CDATA[Hard drive size]]></Name>
+        <Label><![CDATA[hard_drive_size]]></Label>
+        <Value><![CDATA[2.5]]></Value>
+        <PresentationValue><![CDATA[2.5]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90626">
+        <Name><![CDATA[Interface]]></Name>
+        <Label><![CDATA[interface]]></Label>
+        <Value><![CDATA[SAS]]></Value>
+        <PresentationValue><![CDATA[SAS]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91130">
+        <Name><![CDATA[Component for]]></Name>
+        <Label><![CDATA[component_for]]></Label>
+        <Value><![CDATA[Server/Workstation]]></Value>
+        <PresentationValue><![CDATA[Server/Workstation]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91133">
+        <Name><![CDATA[Bytes per sector]]></Name>
+        <Label><![CDATA[bytes_per_sector]]></Label>
+        <Value><![CDATA[512e]]></Value>
+        <PresentationValue><![CDATA[512e]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91825">
+        <Name><![CDATA[Hot-swap]]></Name>
+        <Label><![CDATA[hot-swap]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91832">
+        <Name><![CDATA[Quantity]]></Name>
+        <Label><![CDATA[quantity]]></Label>
+        <Value><![CDATA[1]]></Value>
+        <PresentationValue><![CDATA[1]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="93192">
+        <Name><![CDATA[Compatible products]]></Name>
+        <Label><![CDATA[compatible_products]]></Label>
+        <Value><![CDATA[PowerEdge R230 (2.5"), R330 (2.5"), R630 (2.5"), R730 (2.5"), R730xd (2.5"), R830 (2.5"), T630 (2.5")]]></Value>
+        <PresentationValue><![CDATA[PowerEdge R230 (2.5"), R330 (2.5"), R630 (2.5"), R730 (2.5"), R730xd (2.5"), R830 (2.5"), T630 (2.5")]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="93196">
+        <Name><![CDATA[Hard drive interface transfer rate]]></Name>
+        <Label><![CDATA[hard_drive_interface_transfer_rate]]></Label>
+        <Value><![CDATA[12]]></Value>
+        <PresentationValue><![CDATA[12]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="117263">
+        <Name><![CDATA[Type]]></Name>
+        <Label><![CDATA[type]]></Label>
+        <Value><![CDATA[HDD]]></Value>
+        <PresentationValue><![CDATA[HDD]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="117267">
+        <Name><![CDATA[Operating voltage]]></Name>
+        <Label><![CDATA[operating_voltage]]></Label>
+        <Value><![CDATA[5]]></Value>
+        <PresentationValue><![CDATA[5]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="149378">
+        <Name><![CDATA[Harmonized System (HS) code]]></Name>
+        <Label><![CDATA[harmonized_system_(hs)_code]]></Label>
+        <Value><![CDATA[84717050]]></Value>
+        <PresentationValue><![CDATA[84717050]]></PresentationValue>
+      </Attribute>
+    </Attributes>
+    <RelatedProducts/>
+  </Product>
+  <Product ID="1762566">
+    <SKU><![CDATA[FARGO_45200]]></SKU>
+    <MPN><![CDATA[45200]]></MPN>
+    <Brand>
+      <BrandID>118317</BrandID>
+      <BrandName><![CDATA[Fargo]]></BrandName>
+    </Brand>
+    <ProductType>printer_ribbons</ProductType>
+    <Category>
+      <CategoryId>178069</CategoryId>
+      <CategoryName><![CDATA[Printer Ribbons]]></CategoryName>
+      <IcecatUnspsc>44103112</IcecatUnspsc>
+    </Category>
+    <Description>
+      <ProductName><![CDATA[Fargo 45200 cinta para impresora 500 páginas]]></ProductName>
+      <LongDescription><![CDATA[<p id='ice_summary_long_description'>Fargo 45200. Compatibilidad: DTC4500, Producción de papel: 500 páginas, Color del producto: Multicolor</p>]]></LongDescription>
+    </Description>
+    <Warehouses>
+      <Warehouse>
+        <WarehouseId>30</WarehouseId>
+        <WarehouseName>Supplier Y</WarehouseName>
+        <IsSelected>true</IsSelected>
+        <WarehouseRecommendedRetailPrice>5.0000</WarehouseRecommendedRetailPrice>
+        <Stock>5</Stock>
+        <DPN>45200</DPN>
+      </Warehouse>
+    </Warehouses>
+    <Prices>
+      <PriceGroup>
+        <PriceGroupName>general</PriceGroupName>
+        <PromoPrice>0.0000</PromoPrice>
+      </PriceGroup>
+    </Prices>
+    <Attributes>
+      <Attribute ID="121078">
+        <Name><![CDATA[Colour of product]]></Name>
+        <Label><![CDATA[product_colour]]></Label>
+        <Value><![CDATA[Multicolour]]></Value>
+        <PresentationValue><![CDATA[Multicolour]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="150070">
+        <Name><![CDATA[Compatibility]]></Name>
+        <Label><![CDATA[compatibility]]></Label>
+        <Value><![CDATA[DTC4500]]></Value>
+        <PresentationValue><![CDATA[DTC4500]]></PresentationValue>
+      </Attribute>
+    </Attributes>
+    <RelatedProducts/>
+  </Product>
+  <Product ID="1762570">
+    <SKU><![CDATA[KINGSTONTECHNOLOGY_DT100G2/16GBZ]]></SKU>
+    <MPN><![CDATA[DT100G2/16GBZ]]></MPN>
+    <Brand>
+      <BrandID>114309</BrandID>
+      <BrandName><![CDATA[Kingston Technology]]></BrandName>
+    </Brand>
+    <ProductType>usb_flash_drives</ProductType>
+    <Category>
+      <CategoryId>6206</CategoryId>
+      <CategoryName><![CDATA[USB Flash Drives]]></CategoryName>
+      <IcecatUnspsc>43172397</IcecatUnspsc>
+    </Category>
+    <Description>
+      <ProductName><![CDATA[Kingston Technology DataTraveler G2 unidad flash USB 16 GB USB tipo A 2.0 Negro]]></ProductName>
+      <ShortSummaryDescription><![CDATA[DataTraveler Entry level]]></ShortSummaryDescription>
+      <ShortDescription><![CDATA[DataTraveler Entry level]]></ShortDescription>
+      <LongDescription><![CDATA[<p>Kingston Technology DataTraveler G2. Capacidad: 16 GB, Interfaz del dispositivo: USB tipo A, Versi&oacute;n USB: 2.0, Velocidad de lectura: 10 MB/s, Velocidad de escritura: 5 MB/s. Factor de forma: Deslizar, Color del producto: Negro</p>
+
+<p>Una amplia gama de unidades USB para uso diario. Las unidades flash USB de gama b&aacute;sica de Kingston Technology son ideales para llevarlas siempre encima. Adem&aacute;s, son f&aacute;ciles de usar y constituyen una forma fiable de transportar y transferir canciones, fotos, v&iacute;deos, documentos y mucho m&aacute;s. Estas memorias son perfectas para el d&iacute;a a d&iacute;a y est&aacute;n disponibles en varias capacidades, dise&ntilde;os y colores.</p>
+
+<p>Warranty: 5 a&ntilde;os</p>]]></LongDescription>
+    </Description>
+    <Warehouses>
+      <Warehouse>
+        <WarehouseId>30</WarehouseId>
+        <WarehouseName>Supplier Y</WarehouseName>
+        <IsSelected>true</IsSelected>
+        <WarehouseRecommendedRetailPrice>5.0000</WarehouseRecommendedRetailPrice>
+        <Stock>5</Stock>
+        <DPN>DT100G2/16GBZ</DPN>
+      </Warehouse>
+    </Warehouses>
+    <Prices>
+      <PriceGroup>
+        <PriceGroupName>general</PriceGroupName>
+        <PromoPrice>0.0000</PromoPrice>
+      </PriceGroup>
+    </Prices>
+    <Attributes>
+      <Attribute ID="103816">
+        <Name><![CDATA[Capacity]]></Name>
+        <Label><![CDATA[capacity]]></Label>
+        <Value><![CDATA[16]]></Value>
+        <PresentationValue><![CDATA[16]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="103817">
+        <Name><![CDATA[USB version]]></Name>
+        <Label><![CDATA[usb_version]]></Label>
+        <Value><![CDATA[2.0]]></Value>
+        <PresentationValue><![CDATA[2.0]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="103825">
+        <Name><![CDATA[Form factor]]></Name>
+        <Label><![CDATA[form_factor]]></Label>
+        <Value><![CDATA[Slide]]></Value>
+        <PresentationValue><![CDATA[Slide]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="103826">
+        <Name><![CDATA[Colour of product]]></Name>
+        <Label><![CDATA[product_colour]]></Label>
+        <Value><![CDATA[Black]]></Value>
+        <PresentationValue><![CDATA[Black]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="103828">
+        <Name><![CDATA[Width]]></Name>
+        <Label><![CDATA[width]]></Label>
+        <Value><![CDATA[69.62]]></Value>
+        <PresentationValue><![CDATA[69.62]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="103829">
+        <Name><![CDATA[Depth]]></Name>
+        <Label><![CDATA[depth]]></Label>
+        <Value><![CDATA[22.44]]></Value>
+        <PresentationValue><![CDATA[22.44]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="103830">
+        <Name><![CDATA[Height]]></Name>
+        <Label><![CDATA[height]]></Label>
+        <Value><![CDATA[12.76]]></Value>
+        <PresentationValue><![CDATA[12.76]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="105127">
+        <Name><![CDATA[Read speed]]></Name>
+        <Label><![CDATA[read_speed]]></Label>
+        <Value><![CDATA[10]]></Value>
+        <PresentationValue><![CDATA[10]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="105128">
+        <Name><![CDATA[Write speed]]></Name>
+        <Label><![CDATA[write_speed]]></Label>
+        <Value><![CDATA[5]]></Value>
+        <PresentationValue><![CDATA[5]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="107576">
+        <Name><![CDATA[Plug and Play]]></Name>
+        <Label><![CDATA[plug_and_play]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="107578">
+        <Name><![CDATA[Compatible operating systems]]></Name>
+        <Label><![CDATA[compatible_operating_systems]]></Label>
+        <Value><![CDATA[Windows 7Windows VistaWindows XPWindows 2000 (SP4)Mac OS v.10.5.x+Linux v.2.6.x+]]></Value>
+        <PresentationValue><![CDATA[Windows 7Windows VistaWindows XPWindows 2000 (SP4)Mac OS v.10.5.x+Linux v.2.6.x+]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="108612">
+        <Name><![CDATA[USB required]]></Name>
+        <Label><![CDATA[usb_required]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="111928">
+        <Name><![CDATA[Operating temperature (T-T)]]></Name>
+        <Label><![CDATA[operating_temperature_(t-t)]]></Label>
+        <Value><![CDATA[0 - 60]]></Value>
+        <PresentationValue><![CDATA[0 - 60]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="111929">
+        <Name><![CDATA[Storage temperature (T-T)]]></Name>
+        <Label><![CDATA[storage_temperature_(t-t)]]></Label>
+        <Value><![CDATA[-20 - 85]]></Value>
+        <PresentationValue><![CDATA[-20 - 85]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="115017">
+        <Name><![CDATA[Product family]]></Name>
+        <Label><![CDATA[product_family]]></Label>
+        <Value><![CDATA[DataTraveler]]></Value>
+        <PresentationValue><![CDATA[DataTraveler]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="118508">
+        <Name><![CDATA[Device interface]]></Name>
+        <Label><![CDATA[device_interface]]></Label>
+        <Value><![CDATA[USB Type-A]]></Value>
+        <PresentationValue><![CDATA[USB Type-A]]></PresentationValue>
+      </Attribute>
+    </Attributes>
+    <RelatedProducts/>
+  </Product>
+  <Product ID="1762573">
+    <SKU><![CDATA[SAMSUNG_M393B2G70DB0-CMA]]></SKU>
+    <MPN><![CDATA[M393B2G70DB0-CMA]]></MPN>
+    <EANS>
+      <EAN><![CDATA[4053162691629]]></EAN>
+    </EANS>
+    <Brand>
+      <BrandID>68698</BrandID>
+      <BrandName><![CDATA[Samsung]]></BrandName>
+    </Brand>
+    <ProductType>memory_modules</ProductType>
+    <Category>
+      <CategoryId>178073</CategoryId>
+      <CategoryName><![CDATA[Memory Modules]]></CategoryName>
+      <IcecatUnspsc>32101602</IcecatUnspsc>
+    </Category>
+    <Description>
+      <ProductName><![CDATA[Samsung 16GB DDR3 1866MHz módulo de memoria 1 x 16 GB ECC]]></ProductName>
+      <LongDescription><![CDATA[<p>Samsung 16GB DDR3 1866MHz. Componente para: PC/servidor, Memoria interna: 16 GB, Dise&ntilde;o de memoria (m&oacute;dulos x tama&ntilde;o): 1 x 16 GB, Tipo de memoria interna: DDR3, Velocidad de memoria del reloj: 1866 MHz, Forma de factor de memoria: 240-pin DIMM, Latencia CAS: 13, ECC</p>]]></LongDescription>
+    </Description>
+    <Warehouses>
+      <Warehouse>
+        <WarehouseId>30</WarehouseId>
+        <WarehouseName>Supplier Y</WarehouseName>
+        <IsSelected>true</IsSelected>
+        <WarehouseRecommendedRetailPrice>5.0000</WarehouseRecommendedRetailPrice>
+        <Stock>5</Stock>
+        <DPN>M393B2G70DB0-CMA</DPN>
+      </Warehouse>
+    </Warehouses>
+    <Prices>
+      <PriceGroup>
+        <PriceGroupName>general</PriceGroupName>
+        <PromoPrice>0.0000</PromoPrice>
+      </PriceGroup>
+    </Prices>
+    <Attributes>
+      <Attribute ID="122516">
+        <Name><![CDATA[Internal memory]]></Name>
+        <Label><![CDATA[internal_memory]]></Label>
+        <Value><![CDATA[16]]></Value>
+        <PresentationValue><![CDATA[16]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="122517">
+        <Name><![CDATA[Memory layout (modules x size)]]></Name>
+        <Label><![CDATA[memory_layout_(modules_x_size)]]></Label>
+        <Value><![CDATA[1 x 16]]></Value>
+        <PresentationValue><![CDATA[1 x 16]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="122518">
+        <Name><![CDATA[Internal memory type]]></Name>
+        <Label><![CDATA[internal_memory_type]]></Label>
+        <Value><![CDATA[DDR3]]></Value>
+        <PresentationValue><![CDATA[DDR3]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="122519">
+        <Name><![CDATA[Memory clock speed]]></Name>
+        <Label><![CDATA[memory_clock_speed]]></Label>
+        <Value><![CDATA[1866]]></Value>
+        <PresentationValue><![CDATA[1866]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="122520">
+        <Name><![CDATA[Memory form factor]]></Name>
+        <Label><![CDATA[memory_form_factor]]></Label>
+        <Value><![CDATA[240-pin DIMM]]></Value>
+        <PresentationValue><![CDATA[240-pin DIMM]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="147356">
+        <Name><![CDATA[Component for]]></Name>
+        <Label><![CDATA[component_for]]></Label>
+        <Value><![CDATA[PC/Server]]></Value>
+        <PresentationValue><![CDATA[PC/Server]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="147357">
+        <Name><![CDATA[ECC]]></Name>
+        <Label><![CDATA[ecc]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+    </Attributes>
+    <RelatedProducts/>
+  </Product>
+  <Product ID="1762575">
+    <SKU><![CDATA[TOSHIBA_HDWG11AXZSTA]]></SKU>
+    <MPN><![CDATA[HDWG11AXZSTA]]></MPN>
+    <Brand>
+      <BrandID>68677</BrandID>
+      <BrandName><![CDATA[Toshiba]]></BrandName>
+    </Brand>
+    <ProductType>internal_hard_drives</ProductType>
+    <Category>
+      <CategoryId>177858</CategoryId>
+      <CategoryName><![CDATA[Internal Hard Drives]]></CategoryName>
+      <IcecatUnspsc>43201803</IcecatUnspsc>
+    </Category>
+    <Description>
+      <ProductName><![CDATA[Toshiba N300 3.5" 10000 GB Serial ATA III]]></ProductName>
+      <LongDescription><![CDATA[<p>Toshiba N300. Tama&ntilde;o del HDD: 3.5&quot;, Capacidad del HDD: 10000 GB, Velocidad de rotaci&oacute;n del HDD: 7200 RPM</p>]]></LongDescription>
+    </Description>
+    <Warehouses>
+      <Warehouse>
+        <WarehouseId>30</WarehouseId>
+        <WarehouseName>Supplier Y</WarehouseName>
+        <IsSelected>true</IsSelected>
+        <WarehouseRecommendedRetailPrice>5.0000</WarehouseRecommendedRetailPrice>
+        <Stock>5</Stock>
+        <DPN>HDWG11AXZSTA</DPN>
+      </Warehouse>
+    </Warehouses>
+    <Prices>
+      <PriceGroup>
+        <PriceGroupName>general</PriceGroupName>
+        <PromoPrice>0.0000</PromoPrice>
+      </PriceGroup>
+    </Prices>
+    <Attributes>
+      <Attribute ID="90621">
+        <Name><![CDATA[Hard drive capacity]]></Name>
+        <Label><![CDATA[hard_drive_capacity]]></Label>
+        <Value><![CDATA[10000]]></Value>
+        <PresentationValue><![CDATA[10000]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90623">
+        <Name><![CDATA[Hard drive speed]]></Name>
+        <Label><![CDATA[hard_drive_speed]]></Label>
+        <Value><![CDATA[7200]]></Value>
+        <PresentationValue><![CDATA[7200]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90624">
+        <Name><![CDATA[Hard drive size]]></Name>
+        <Label><![CDATA[hard_drive_size]]></Label>
+        <Value><![CDATA[3.5]]></Value>
+        <PresentationValue><![CDATA[3.5]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90626">
+        <Name><![CDATA[Interface]]></Name>
+        <Label><![CDATA[interface]]></Label>
+        <Value><![CDATA[Serial ATA III]]></Value>
+        <PresentationValue><![CDATA[Serial ATA III]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91130">
+        <Name><![CDATA[Component for]]></Name>
+        <Label><![CDATA[component_for]]></Label>
+        <Value><![CDATA[NAS]]></Value>
+        <PresentationValue><![CDATA[NAS]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91136">
+        <Name><![CDATA[Power consumption (typical)]]></Name>
+        <Label><![CDATA[power_consumption_(typical)]]></Label>
+        <Value><![CDATA[9.48]]></Value>
+        <PresentationValue><![CDATA[9.48]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91137">
+        <Name><![CDATA[Power consumption (idle)]]></Name>
+        <Label><![CDATA[power_consumption_(idle)]]></Label>
+        <Value><![CDATA[7.15]]></Value>
+        <PresentationValue><![CDATA[7.15]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91139">
+        <Name><![CDATA[Operating temperature (T-T)]]></Name>
+        <Label><![CDATA[operating_temperature_(t-t)]]></Label>
+        <Value><![CDATA[0 - 65]]></Value>
+        <PresentationValue><![CDATA[0 - 65]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91140">
+        <Name><![CDATA[Storage temperature (T-T)]]></Name>
+        <Label><![CDATA[storage_temperature_(t-t)]]></Label>
+        <Value><![CDATA[-40 - 70]]></Value>
+        <PresentationValue><![CDATA[-40 - 70]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91141">
+        <Name><![CDATA[Non-operating vibration]]></Name>
+        <Label><![CDATA[non-operating_vibration]]></Label>
+        <Value><![CDATA[3]]></Value>
+        <PresentationValue><![CDATA[3]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91142">
+        <Name><![CDATA[Operating shock]]></Name>
+        <Label><![CDATA[operating_shock]]></Label>
+        <Value><![CDATA[70]]></Value>
+        <PresentationValue><![CDATA[70]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91143">
+        <Name><![CDATA[Non-operating shock]]></Name>
+        <Label><![CDATA[non-operating_shock]]></Label>
+        <Value><![CDATA[250]]></Value>
+        <PresentationValue><![CDATA[250]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91145">
+        <Name><![CDATA[Width]]></Name>
+        <Label><![CDATA[width]]></Label>
+        <Value><![CDATA[101.85]]></Value>
+        <PresentationValue><![CDATA[101.85]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91146">
+        <Name><![CDATA[Height]]></Name>
+        <Label><![CDATA[height]]></Label>
+        <Value><![CDATA[26.1]]></Value>
+        <PresentationValue><![CDATA[26.1]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91147">
+        <Name><![CDATA[Depth]]></Name>
+        <Label><![CDATA[depth]]></Label>
+        <Value><![CDATA[147]]></Value>
+        <PresentationValue><![CDATA[147]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91148">
+        <Name><![CDATA[Weight]]></Name>
+        <Label><![CDATA[weight]]></Label>
+        <Value><![CDATA[770]]></Value>
+        <PresentationValue><![CDATA[770]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91168">
+        <Name><![CDATA[Start/stop cycles]]></Name>
+        <Label><![CDATA[start/stop_cycles]]></Label>
+        <Value><![CDATA[300000]]></Value>
+        <PresentationValue><![CDATA[300000]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91825">
+        <Name><![CDATA[Hot-swap]]></Name>
+        <Label><![CDATA[hot-swap]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91832">
+        <Name><![CDATA[Quantity]]></Name>
+        <Label><![CDATA[quantity]]></Label>
+        <Value><![CDATA[1]]></Value>
+        <PresentationValue><![CDATA[1]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="93196">
+        <Name><![CDATA[Hard drive interface transfer rate]]></Name>
+        <Label><![CDATA[hard_drive_interface_transfer_rate]]></Label>
+        <Value><![CDATA[6]]></Value>
+        <PresentationValue><![CDATA[6]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99854">
+        <Name><![CDATA[Hard drive sustained transfer rate]]></Name>
+        <Label><![CDATA[hard_drive_sustained_transfer_rate]]></Label>
+        <Value><![CDATA[248]]></Value>
+        <PresentationValue><![CDATA[248]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="100115">
+        <Name><![CDATA[Operating vibration]]></Name>
+        <Label><![CDATA[operating_vibration]]></Label>
+        <Value><![CDATA[0.75]]></Value>
+        <PresentationValue><![CDATA[0.75]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="106886">
+        <Name><![CDATA[Workload rate limit]]></Name>
+        <Label><![CDATA[workload_rate_limit]]></Label>
+        <Value><![CDATA[180]]></Value>
+        <PresentationValue><![CDATA[180]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="117263">
+        <Name><![CDATA[Type]]></Name>
+        <Label><![CDATA[type]]></Label>
+        <Value><![CDATA[HDD]]></Value>
+        <PresentationValue><![CDATA[HDD]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="117265">
+        <Name><![CDATA[HDD buffer size]]></Name>
+        <Label><![CDATA[hdd_buffer_size]]></Label>
+        <Value><![CDATA[256]]></Value>
+        <PresentationValue><![CDATA[256]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="117267">
+        <Name><![CDATA[Operating voltage]]></Name>
+        <Label><![CDATA[operating_voltage]]></Label>
+        <Value><![CDATA[5 / 12]]></Value>
+        <PresentationValue><![CDATA[5 / 12]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="118634">
+        <Name><![CDATA[Toshiba Dynamic Cache Technology]]></Name>
+        <Label><![CDATA[toshiba_dynamic_cache_technology]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="118636">
+        <Name><![CDATA[Rotational Vibration (RV) sensors]]></Name>
+        <Label><![CDATA[rotational_vibration_(rv)_sensors]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="118637">
+        <Name><![CDATA[Advanced Format (AF)]]></Name>
+        <Label><![CDATA[advanced_format_(af)]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="118638">
+        <Name><![CDATA[Shock sensor]]></Name>
+        <Label><![CDATA[shock_sensor]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="118639">
+        <Name><![CDATA[24/7 operation]]></Name>
+        <Label><![CDATA[24/7_operation]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="118640">
+        <Name><![CDATA[Noise level (idle)]]></Name>
+        <Label><![CDATA[noise_level_(idle)]]></Label>
+        <Value><![CDATA[34]]></Value>
+        <PresentationValue><![CDATA[34]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="118641">
+        <Name><![CDATA[Mean time to failure (MTTF)]]></Name>
+        <Label><![CDATA[mean_time_to_failure_(mttf)]]></Label>
+        <Value><![CDATA[1000000]]></Value>
+        <PresentationValue><![CDATA[1000000]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="149377">
+        <Name><![CDATA[Sustainability certificates]]></Name>
+        <Label><![CDATA[sustainability_certificates]]></Label>
+        <Value><![CDATA[RoHS]]></Value>
+        <PresentationValue><![CDATA[RoHS]]></PresentationValue>
+      </Attribute>
+    </Attributes>
+    <RelatedProducts/>
+  </Product>
+  <Product ID="1762576">
+    <SKU><![CDATA[TOSHIBA_MG07ACA12TE]]></SKU>
+    <MPN><![CDATA[MG07ACA12TE]]></MPN>
+    <EANS>
+      <EAN><![CDATA[4260557510520]]></EAN>
+      <EAN><![CDATA[5706998756923]]></EAN>
+      <EAN><![CDATA[5415247211693]]></EAN>
+      <EAN><![CDATA[8592978108625]]></EAN>
+    </EANS>
+    <Brand>
+      <BrandID>68677</BrandID>
+      <BrandName><![CDATA[Toshiba]]></BrandName>
+    </Brand>
+    <ProductType>internal_hard_drives</ProductType>
+    <Category>
+      <CategoryId>177858</CategoryId>
+      <CategoryName><![CDATA[Internal Hard Drives]]></CategoryName>
+      <IcecatUnspsc>43201803</IcecatUnspsc>
+    </Category>
+    <Description>
+      <ProductName><![CDATA[Toshiba MG07ACA12TE disco duro interno 3.5" 12000 GB SATA]]></ProductName>
+      <LongDescription><![CDATA[<p>Toshiba MG07ACA12TE. Tama&ntilde;o del HDD: 3.5&quot;, Capacidad del HDD: 12000 GB, Velocidad de rotaci&oacute;n del HDD: 7200 RPM</p>]]></LongDescription>
+    </Description>
+    <Warehouses>
+      <Warehouse>
+        <WarehouseId>30</WarehouseId>
+        <WarehouseName>Supplier Y</WarehouseName>
+        <IsSelected>true</IsSelected>
+        <WarehouseRecommendedRetailPrice>5.0000</WarehouseRecommendedRetailPrice>
+        <Stock>5</Stock>
+        <DPN>MG07ACA12TE</DPN>
+      </Warehouse>
+    </Warehouses>
+    <Prices>
+      <PriceGroup>
+        <PriceGroupName>general</PriceGroupName>
+        <PromoPrice>0.0000</PromoPrice>
+      </PriceGroup>
+    </Prices>
+    <Attributes>
+      <Attribute ID="90621">
+        <Name><![CDATA[Hard drive capacity]]></Name>
+        <Label><![CDATA[hard_drive_capacity]]></Label>
+        <Value><![CDATA[12000]]></Value>
+        <PresentationValue><![CDATA[12000]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90623">
+        <Name><![CDATA[Hard drive speed]]></Name>
+        <Label><![CDATA[hard_drive_speed]]></Label>
+        <Value><![CDATA[7200]]></Value>
+        <PresentationValue><![CDATA[7200]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90624">
+        <Name><![CDATA[Hard drive size]]></Name>
+        <Label><![CDATA[hard_drive_size]]></Label>
+        <Value><![CDATA[3.5]]></Value>
+        <PresentationValue><![CDATA[3.5]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="90626">
+        <Name><![CDATA[Interface]]></Name>
+        <Label><![CDATA[interface]]></Label>
+        <Value><![CDATA[Serial ATA]]></Value>
+        <PresentationValue><![CDATA[Serial ATA]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91134">
+        <Name><![CDATA[Mean time between failures (MTBF)]]></Name>
+        <Label><![CDATA[mean_time_between_failures_(mtbf)]]></Label>
+        <Value><![CDATA[2500000]]></Value>
+        <PresentationValue><![CDATA[2500000]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91136">
+        <Name><![CDATA[Power consumption (typical)]]></Name>
+        <Label><![CDATA[power_consumption_(typical)]]></Label>
+        <Value><![CDATA[3.93]]></Value>
+        <PresentationValue><![CDATA[3.93]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91139">
+        <Name><![CDATA[Operating temperature (T-T)]]></Name>
+        <Label><![CDATA[operating_temperature_(t-t)]]></Label>
+        <Value><![CDATA[5 - 55]]></Value>
+        <PresentationValue><![CDATA[5 - 55]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91140">
+        <Name><![CDATA[Storage temperature (T-T)]]></Name>
+        <Label><![CDATA[storage_temperature_(t-t)]]></Label>
+        <Value><![CDATA[-40 - 70]]></Value>
+        <PresentationValue><![CDATA[-40 - 70]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91141">
+        <Name><![CDATA[Non-operating vibration]]></Name>
+        <Label><![CDATA[non-operating_vibration]]></Label>
+        <Value><![CDATA[3]]></Value>
+        <PresentationValue><![CDATA[3]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91142">
+        <Name><![CDATA[Operating shock]]></Name>
+        <Label><![CDATA[operating_shock]]></Label>
+        <Value><![CDATA[70]]></Value>
+        <PresentationValue><![CDATA[70]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91143">
+        <Name><![CDATA[Non-operating shock]]></Name>
+        <Label><![CDATA[non-operating_shock]]></Label>
+        <Value><![CDATA[250]]></Value>
+        <PresentationValue><![CDATA[250]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91145">
+        <Name><![CDATA[Width]]></Name>
+        <Label><![CDATA[width]]></Label>
+        <Value><![CDATA[101.85]]></Value>
+        <PresentationValue><![CDATA[101.85]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91146">
+        <Name><![CDATA[Height]]></Name>
+        <Label><![CDATA[height]]></Label>
+        <Value><![CDATA[26.1]]></Value>
+        <PresentationValue><![CDATA[26.1]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91147">
+        <Name><![CDATA[Depth]]></Name>
+        <Label><![CDATA[depth]]></Label>
+        <Value><![CDATA[147]]></Value>
+        <PresentationValue><![CDATA[147]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91148">
+        <Name><![CDATA[Weight]]></Name>
+        <Label><![CDATA[weight]]></Label>
+        <Value><![CDATA[720]]></Value>
+        <PresentationValue><![CDATA[720]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91835">
+        <Name><![CDATA[Operating relative humidity (H-H)]]></Name>
+        <Label><![CDATA[operating_relative_humidity_(h-h)]]></Label>
+        <Value><![CDATA[5 - 90]]></Value>
+        <PresentationValue><![CDATA[5 - 90]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="91836">
+        <Name><![CDATA[Storage relative humidity (H-H)]]></Name>
+        <Label><![CDATA[storage_relative_humidity_(h-h)]]></Label>
+        <Value><![CDATA[5 - 95]]></Value>
+        <PresentationValue><![CDATA[5 - 95]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="92147">
+        <Name><![CDATA[Power consumption (read)]]></Name>
+        <Label><![CDATA[power_consumption_(read)]]></Label>
+        <Value><![CDATA[7.5]]></Value>
+        <PresentationValue><![CDATA[7.5]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="93196">
+        <Name><![CDATA[Hard drive interface transfer rate]]></Name>
+        <Label><![CDATA[hard_drive_interface_transfer_rate]]></Label>
+        <Value><![CDATA[6]]></Value>
+        <PresentationValue><![CDATA[6]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99854">
+        <Name><![CDATA[Hard drive sustained transfer rate]]></Name>
+        <Label><![CDATA[hard_drive_sustained_transfer_rate]]></Label>
+        <Value><![CDATA[242]]></Value>
+        <PresentationValue><![CDATA[242]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="100115">
+        <Name><![CDATA[Operating vibration]]></Name>
+        <Label><![CDATA[operating_vibration]]></Label>
+        <Value><![CDATA[0.75]]></Value>
+        <PresentationValue><![CDATA[0.75]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="100484">
+        <Name><![CDATA[Operating altitude]]></Name>
+        <Label><![CDATA[operating_altitude]]></Label>
+        <Value><![CDATA[-305 - 3048]]></Value>
+        <PresentationValue><![CDATA[-305 - 3048]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="100485">
+        <Name><![CDATA[Non-operating altitude]]></Name>
+        <Label><![CDATA[non-operating_altitude]]></Label>
+        <Value><![CDATA[-305 - 12192]]></Value>
+        <PresentationValue><![CDATA[-305 - 12192]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="106886">
+        <Name><![CDATA[Workload rate limit]]></Name>
+        <Label><![CDATA[workload_rate_limit]]></Label>
+        <Value><![CDATA[550]]></Value>
+        <PresentationValue><![CDATA[550]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="117263">
+        <Name><![CDATA[Type]]></Name>
+        <Label><![CDATA[type]]></Label>
+        <Value><![CDATA[HDD]]></Value>
+        <PresentationValue><![CDATA[HDD]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="117265">
+        <Name><![CDATA[HDD buffer size]]></Name>
+        <Label><![CDATA[hdd_buffer_size]]></Label>
+        <Value><![CDATA[256]]></Value>
+        <PresentationValue><![CDATA[256]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="117267">
+        <Name><![CDATA[Operating voltage]]></Name>
+        <Label><![CDATA[operating_voltage]]></Label>
+        <Value><![CDATA[5 / 12]]></Value>
+        <PresentationValue><![CDATA[5 / 12]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="149378">
+        <Name><![CDATA[Harmonized System (HS) code]]></Name>
+        <Label><![CDATA[harmonized_system_(hs)_code]]></Label>
+        <Value><![CDATA[84717050]]></Value>
+        <PresentationValue><![CDATA[84717050]]></PresentationValue>
+      </Attribute>
+    </Attributes>
+    <RelatedProducts/>
+  </Product>
+  <Product ID="1762578">
+    <SKU><![CDATA[DELL_F7HXV]]></SKU>
+    <MPN><![CDATA[F7HXV]]></MPN>
+    <EANS>
+      <EAN><![CDATA[0884116345329]]></EAN>
+      <EAN><![CDATA[884116345329]]></EAN>
+    </EANS>
+    <Brand>
+      <BrandID>68942</BrandID>
+      <BrandName><![CDATA[DELL]]></BrandName>
+    </Brand>
+    <ProductType>notebooks</ProductType>
+    <Category>
+      <CategoryId>5459</CategoryId>
+      <CategoryName><![CDATA[Notebooks]]></CategoryName>
+      <IcecatUnspsc>43171801</IcecatUnspsc>
+    </Category>
+    <Description>
+      <ProductName><![CDATA[DELL Vostro 3490 i5-10210U Portátil 35,6 cm (14") HD Intel® Core™ i5 8 GB DDR4-SDRAM 1000 GB Unidad de disco duro Wi-Fi 5 (802.11ac) Windows 10 Pro Negro]]></ProductName>
+      <LongDescription><![CDATA[<p>DELL Vostro 3490. Tipo de producto: Port&aacute;til, Factor de forma: Concha. Familia de procesador: Intel&reg; Core&trade; i5, Modelo del procesador: i5-10210U, Frecuencia del procesador: 1,6 GHz. Diagonal de la pantalla: 35,6 cm (14&quot;), Tipo HD: HD, Resoluci&oacute;n de la pantalla: 1366 x 768 Pixeles. Memoria interna: 8 GB, Tipo de memoria interna: DDR4-SDRAM. Capacidad total de almacenaje: 1000 GB, Unidad de almacenamiento: Unidad de disco duro. Modelo de adaptador gr&aacute;fico incorporado: Intel&reg; UHD Graphics. Sistema operativo instalado: Windows 10 Pro. Color del producto: Negro</p>]]></LongDescription>
+    </Description>
+    <Warehouses>
+      <Warehouse>
+        <WarehouseId>30</WarehouseId>
+        <WarehouseName>Supplier Y</WarehouseName>
+        <IsSelected>true</IsSelected>
+        <WarehouseRecommendedRetailPrice>5.0000</WarehouseRecommendedRetailPrice>
+        <Stock>5</Stock>
+        <DPN>F7HXV</DPN>
+      </Warehouse>
+    </Warehouses>
+    <Attributes>
+      <Attribute ID="94662">
+        <Name><![CDATA[Display resolution]]></Name>
+        <Label><![CDATA[display_resolution]]></Label>
+        <Value><![CDATA[1366 x 768]]></Value>
+        <PresentationValue><![CDATA[1366 x 768]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94664">
+        <Name><![CDATA[HD type]]></Name>
+        <Label><![CDATA[hd_type]]></Label>
+        <Value><![CDATA[HD]]></Value>
+        <PresentationValue><![CDATA[HD]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94666">
+        <Name><![CDATA[LED backlight]]></Name>
+        <Label><![CDATA[led_backlight]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94669">
+        <Name><![CDATA[Processor frequency]]></Name>
+        <Label><![CDATA[processor_frequency]]></Label>
+        <Value><![CDATA[1.6]]></Value>
+        <PresentationValue><![CDATA[1.6]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94670">
+        <Name><![CDATA[Processor family]]></Name>
+        <Label><![CDATA[processor_family]]></Label>
+        <Value><![CDATA[Intel Core i5]]></Value>
+        <PresentationValue><![CDATA[Intel Core i5]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94671">
+        <Name><![CDATA[Processor model]]></Name>
+        <Label><![CDATA[processor_model]]></Label>
+        <Value><![CDATA[i5-10210U]]></Value>
+        <PresentationValue><![CDATA[i5-10210U]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94672">
+        <Name><![CDATA[Processor boost frequency]]></Name>
+        <Label><![CDATA[processor_boost_frequency]]></Label>
+        <Value><![CDATA[4.2]]></Value>
+        <PresentationValue><![CDATA[4.2]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94673">
+        <Name><![CDATA[Processor cores]]></Name>
+        <Label><![CDATA[processor_cores]]></Label>
+        <Value><![CDATA[4]]></Value>
+        <PresentationValue><![CDATA[4]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94674">
+        <Name><![CDATA[Processor threads]]></Name>
+        <Label><![CDATA[processor_threads]]></Label>
+        <Value><![CDATA[8]]></Value>
+        <PresentationValue><![CDATA[8]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94675">
+        <Name><![CDATA[Processor cache]]></Name>
+        <Label><![CDATA[processor_cache]]></Label>
+        <Value><![CDATA[6]]></Value>
+        <PresentationValue><![CDATA[6]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94677">
+        <Name><![CDATA[Processor socket]]></Name>
+        <Label><![CDATA[processor_socket]]></Label>
+        <Value><![CDATA[BGA 1528]]></Value>
+        <PresentationValue><![CDATA[BGA 1528]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94678">
+        <Name><![CDATA[Processor lithography]]></Name>
+        <Label><![CDATA[processor_lithography]]></Label>
+        <Value><![CDATA[14]]></Value>
+        <PresentationValue><![CDATA[14]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94679">
+        <Name><![CDATA[Processor operating modes]]></Name>
+        <Label><![CDATA[processor_operating_modes]]></Label>
+        <Value><![CDATA[64-bit]]></Value>
+        <PresentationValue><![CDATA[64-bit]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94681">
+        <Name><![CDATA[Processor codename]]></Name>
+        <Label><![CDATA[processor_codename]]></Label>
+        <Value><![CDATA[Comet Lake]]></Value>
+        <PresentationValue><![CDATA[Comet Lake]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94683">
+        <Name><![CDATA[Tjunction]]></Name>
+        <Label><![CDATA[tjunction]]></Label>
+        <Value><![CDATA[100]]></Value>
+        <PresentationValue><![CDATA[100]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94684">
+        <Name><![CDATA[Maximum number of PCI Express lanes]]></Name>
+        <Label><![CDATA[maximum_number_of_pci_express_lanes]]></Label>
+        <Value><![CDATA[16]]></Value>
+        <PresentationValue><![CDATA[16]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94685">
+        <Name><![CDATA[PCI Express slots version]]></Name>
+        <Label><![CDATA[pci_express_slots_version]]></Label>
+        <Value><![CDATA[3.0]]></Value>
+        <PresentationValue><![CDATA[3.0]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94686">
+        <Name><![CDATA[PCI Express configurations]]></Name>
+        <Label><![CDATA[pci_express_configurations]]></Label>
+        <Value><![CDATA[1x4,2x2,1x2+2x1,4x1]]></Value>
+        <PresentationValue><![CDATA[1x4,2x2,1x2+2x1,4x1]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94688">
+        <Name><![CDATA[Internal memory]]></Name>
+        <Label><![CDATA[internal_memory]]></Label>
+        <Value><![CDATA[8]]></Value>
+        <PresentationValue><![CDATA[8]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94690">
+        <Name><![CDATA[Total storage capacity]]></Name>
+        <Label><![CDATA[total_storage_capacity]]></Label>
+        <Value><![CDATA[1000]]></Value>
+        <PresentationValue><![CDATA[1000]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94691">
+        <Name><![CDATA[Storage media]]></Name>
+        <Label><![CDATA[storage_media]]></Label>
+        <Value><![CDATA[HDD]]></Value>
+        <PresentationValue><![CDATA[HDD]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94692">
+        <Name><![CDATA[Card reader integrated]]></Name>
+        <Label><![CDATA[card_reader_integrated]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94693">
+        <Name><![CDATA[Compatible memory cards]]></Name>
+        <Label><![CDATA[compatible_memory_cards]]></Label>
+        <Value><![CDATA[SD,SDHC,SDXC]]></Value>
+        <PresentationValue><![CDATA[SD,SDHC,SDXC]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94695">
+        <Name><![CDATA[On-board graphics adapter]]></Name>
+        <Label><![CDATA[on-board_graphics_card]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94696">
+        <Name><![CDATA[Discrete graphics adapter]]></Name>
+        <Label><![CDATA[discrete_graphics_card]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94697">
+        <Name><![CDATA[On-board graphics adapter model]]></Name>
+        <Label><![CDATA[on-board_graphics_card_model]]></Label>
+        <Value><![CDATA[Intel UHD Graphics]]></Value>
+        <PresentationValue><![CDATA[Intel UHD Graphics]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94698">
+        <Name><![CDATA[Discrete graphics adapter model]]></Name>
+        <Label><![CDATA[discrete_graphics_card_model]]></Label>
+        <Value><![CDATA[Not available]]></Value>
+        <PresentationValue><![CDATA[Not available]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94700">
+        <Name><![CDATA[On-board graphics adapter base frequency]]></Name>
+        <Label><![CDATA[on-board_graphics_card_base_frequency]]></Label>
+        <Value><![CDATA[300]]></Value>
+        <PresentationValue><![CDATA[300]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94702">
+        <Name><![CDATA[On-board graphics adapter dynamic frequency (max)]]></Name>
+        <Label><![CDATA[on-board_graphics_card_dynamic_frequency_(max)]]></Label>
+        <Value><![CDATA[1100]]></Value>
+        <PresentationValue><![CDATA[1100]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94703">
+        <Name><![CDATA[Maximum on-board graphics adapter memory]]></Name>
+        <Label><![CDATA[maximum_on-board_graphics_card_memory]]></Label>
+        <Value><![CDATA[32]]></Value>
+        <PresentationValue><![CDATA[32]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94704">
+        <Name><![CDATA[Number of execution units]]></Name>
+        <Label><![CDATA[number_of_execution_units]]></Label>
+        <Value><![CDATA[24]]></Value>
+        <PresentationValue><![CDATA[24]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94707">
+        <Name><![CDATA[Audio system]]></Name>
+        <Label><![CDATA[audio_system]]></Label>
+        <Value><![CDATA[MaxxAudio Pro]]></Value>
+        <PresentationValue><![CDATA[MaxxAudio Pro]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94708">
+        <Name><![CDATA[Speaker power]]></Name>
+        <Label><![CDATA[speaker_power]]></Label>
+        <Value><![CDATA[2]]></Value>
+        <PresentationValue><![CDATA[2]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94709">
+        <Name><![CDATA[Built-in microphone]]></Name>
+        <Label><![CDATA[built-in_microphone]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94712">
+        <Name><![CDATA[Front camera]]></Name>
+        <Label><![CDATA[front_camera]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94713">
+        <Name><![CDATA[Front camera resolution (numeric)]]></Name>
+        <Label><![CDATA[front_camera_resolution_(numeric)]]></Label>
+        <Value><![CDATA[0.92]]></Value>
+        <PresentationValue><![CDATA[0.92]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94715">
+        <Name><![CDATA[Optical drive type]]></Name>
+        <Label><![CDATA[optical_drive_type]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94717">
+        <Name><![CDATA[Bluetooth]]></Name>
+        <Label><![CDATA[bluetooth]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94720">
+        <Name><![CDATA[Top Wi-Fi standard]]></Name>
+        <Label><![CDATA[top_wi-fi_standard]]></Label>
+        <Value><![CDATA[Wi-Fi 5 (802.11ac)]]></Value>
+        <PresentationValue><![CDATA[Wi-Fi 5 (802.11ac)]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94721">
+        <Name><![CDATA[Wi-Fi]]></Name>
+        <Label><![CDATA[wi-fi]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94722">
+        <Name><![CDATA[Wi-Fi standards]]></Name>
+        <Label><![CDATA[wi-fi_standards]]></Label>
+        <Value><![CDATA[Wi-Fi 5 (802.11ac)]]></Value>
+        <PresentationValue><![CDATA[Wi-Fi 5 (802.11ac)]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94723">
+        <Name><![CDATA[Ethernet LAN]]></Name>
+        <Label><![CDATA[ethernet_lan]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94724">
+        <Name><![CDATA[Bluetooth version]]></Name>
+        <Label><![CDATA[bluetooth_version]]></Label>
+        <Value><![CDATA[4.1]]></Value>
+        <PresentationValue><![CDATA[4.1]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94726">
+        <Name><![CDATA[USB 2.0 ports quantity]]></Name>
+        <Label><![CDATA[usb_2.0_ports_quantity]]></Label>
+        <Value><![CDATA[1]]></Value>
+        <PresentationValue><![CDATA[1]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94730">
+        <Name><![CDATA[Combo headphone/mic port]]></Name>
+        <Label><![CDATA[combo_headphone/mic_port]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94734">
+        <Name><![CDATA[Numeric keypad]]></Name>
+        <Label><![CDATA[numeric_keypad]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94735">
+        <Name><![CDATA[Pointing device]]></Name>
+        <Label><![CDATA[pointing_device]]></Label>
+        <Value><![CDATA[Touchpad]]></Value>
+        <PresentationValue><![CDATA[Touchpad]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94736">
+        <Name><![CDATA[Full-size keyboard]]></Name>
+        <Label><![CDATA[full-size_keyboard]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94737">
+        <Name><![CDATA[Windows keys]]></Name>
+        <Label><![CDATA[windows_keys]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94739">
+        <Name><![CDATA[Operating system installed]]></Name>
+        <Label><![CDATA[operating_system_installed]]></Label>
+        <Value><![CDATA[Windows 10 Pro]]></Value>
+        <PresentationValue><![CDATA[Windows 10 Pro]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94740">
+        <Name><![CDATA[Operating system architecture]]></Name>
+        <Label><![CDATA[operating_system_architecture]]></Label>
+        <Value><![CDATA[64-bit]]></Value>
+        <PresentationValue><![CDATA[64-bit]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94743">
+        <Name><![CDATA[Intel® Identity Protection Technology (Intel® IPT)]]></Name>
+        <Label><![CDATA[intel®_identity_protection_technology_(intel®_ipt)]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94745">
+        <Name><![CDATA[Intel® Turbo Boost Technology]]></Name>
+        <Label><![CDATA[intel®_turbo_boost_technology]]></Label>
+        <Value><![CDATA[2.0]]></Value>
+        <PresentationValue><![CDATA[2.0]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94746">
+        <Name><![CDATA[Intel® AES New Instructions (Intel® AES-NI)]]></Name>
+        <Label><![CDATA[intel®_aes_new_instructions_(intel®_aes-ni)]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94747">
+        <Name><![CDATA[Intel 64]]></Name>
+        <Label><![CDATA[intel_64]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94748">
+        <Name><![CDATA[Processor package size]]></Name>
+        <Label><![CDATA[processor_package_size]]></Label>
+        <Value><![CDATA[46 x 24]]></Value>
+        <PresentationValue><![CDATA[46 x 24]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94750">
+        <Name><![CDATA[Embedded options available]]></Name>
+        <Label><![CDATA[embedded_options_available]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94751">
+        <Name><![CDATA[Intel Virtualization Technology (VT-x)]]></Name>
+        <Label><![CDATA[intel_virtualization_technology_(vt-x)]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94752">
+        <Name><![CDATA[Processor ARK ID]]></Name>
+        <Label><![CDATA[processor_ark_id]]></Label>
+        <Value><![CDATA[195436]]></Value>
+        <PresentationValue><![CDATA[195436]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94757">
+        <Name><![CDATA[AC adapter power]]></Name>
+        <Label><![CDATA[ac_adapter_power]]></Label>
+        <Value><![CDATA[45]]></Value>
+        <PresentationValue><![CDATA[45]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94758">
+        <Name><![CDATA[AC adapter frequency]]></Name>
+        <Label><![CDATA[ac_adapter_frequency]]></Label>
+        <Value><![CDATA[50 - 60]]></Value>
+        <PresentationValue><![CDATA[50 - 60]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94759">
+        <Name><![CDATA[AC adapter input voltage]]></Name>
+        <Label><![CDATA[ac_adapter_input_voltage]]></Label>
+        <Value><![CDATA[100 - 240]]></Value>
+        <PresentationValue><![CDATA[100 - 240]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94760">
+        <Name><![CDATA[AC adapter output current]]></Name>
+        <Label><![CDATA[ac_adapter_output_current]]></Label>
+        <Value><![CDATA[2.31]]></Value>
+        <PresentationValue><![CDATA[2.31]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94761">
+        <Name><![CDATA[AC adapter output voltage]]></Name>
+        <Label><![CDATA[ac_adapter_output_voltage]]></Label>
+        <Value><![CDATA[19.5]]></Value>
+        <PresentationValue><![CDATA[19.5]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94767">
+        <Name><![CDATA[Weight]]></Name>
+        <Label><![CDATA[weight]]></Label>
+        <Value><![CDATA[1680]]></Value>
+        <PresentationValue><![CDATA[1680]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94768">
+        <Name><![CDATA[Width]]></Name>
+        <Label><![CDATA[width]]></Label>
+        <Value><![CDATA[339]]></Value>
+        <PresentationValue><![CDATA[339]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94769">
+        <Name><![CDATA[Depth]]></Name>
+        <Label><![CDATA[depth]]></Label>
+        <Value><![CDATA[241.9]]></Value>
+        <PresentationValue><![CDATA[241.9]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94776">
+        <Name><![CDATA[AC adapter included]]></Name>
+        <Label><![CDATA[ac_adapter_included]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94780">
+        <Name><![CDATA[Product family]]></Name>
+        <Label><![CDATA[product_family]]></Label>
+        <Value><![CDATA[Vostro]]></Value>
+        <PresentationValue><![CDATA[Vostro]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94781">
+        <Name><![CDATA[Product series]]></Name>
+        <Label><![CDATA[product_series]]></Label>
+        <Value><![CDATA[3000]]></Value>
+        <PresentationValue><![CDATA[3000]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95625">
+        <Name><![CDATA[System bus rate]]></Name>
+        <Label><![CDATA[system_bus_rate]]></Label>
+        <Value><![CDATA[4]]></Value>
+        <PresentationValue><![CDATA[4]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95628">
+        <Name><![CDATA[Thermal Design Power (TDP)]]></Name>
+        <Label><![CDATA[thermal_design_power_(tdp)]]></Label>
+        <Value><![CDATA[15]]></Value>
+        <PresentationValue><![CDATA[15]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95630">
+        <Name><![CDATA[Maximum internal memory]]></Name>
+        <Label><![CDATA[maximum_internal_memory]]></Label>
+        <Value><![CDATA[16]]></Value>
+        <PresentationValue><![CDATA[16]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95631">
+        <Name><![CDATA[Memory slots]]></Name>
+        <Label><![CDATA[memory_slots]]></Label>
+        <Value><![CDATA[2x SO-DIMM]]></Value>
+        <PresentationValue><![CDATA[2x SO-DIMM]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95636">
+        <Name><![CDATA[On-board graphics adapter DirectX version]]></Name>
+        <Label><![CDATA[on-board_graphics_card_directx_version]]></Label>
+        <Value><![CDATA[12.0]]></Value>
+        <PresentationValue><![CDATA[12.0]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95637">
+        <Name><![CDATA[On-board graphics adapter OpenGL version]]></Name>
+        <Label><![CDATA[on-board_graphics_card_opengl_version]]></Label>
+        <Value><![CDATA[4.5]]></Value>
+        <PresentationValue><![CDATA[4.5]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95638">
+        <Name><![CDATA[On-board graphics adapter ID]]></Name>
+        <Label><![CDATA[on-board_graphics_card_id]]></Label>
+        <Value><![CDATA[0x9B41]]></Value>
+        <PresentationValue><![CDATA[0x9B41]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95641">
+        <Name><![CDATA[USB 3.0 (3.1 Gen 1) Type-A ports quantity]]></Name>
+        <Label><![CDATA[usb_3.2_gen_1_(3.1_gen_1)_type-a_ports_quantity]]></Label>
+        <Value><![CDATA[2]]></Value>
+        <PresentationValue><![CDATA[2]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95643">
+        <Name><![CDATA[HDMI ports quantity]]></Name>
+        <Label><![CDATA[hdmi_ports_quantity]]></Label>
+        <Value><![CDATA[1]]></Value>
+        <PresentationValue><![CDATA[1]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95644">
+        <Name><![CDATA[Ethernet LAN (RJ-45) ports]]></Name>
+        <Label><![CDATA[ethernet_lan_(rj-45)_ports]]></Label>
+        <Value><![CDATA[1]]></Value>
+        <PresentationValue><![CDATA[1]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95645">
+        <Name><![CDATA[VGA (D-Sub) ports quantity]]></Name>
+        <Label><![CDATA[vga_(d-sub)_ports_quantity]]></Label>
+        <Value><![CDATA[1]]></Value>
+        <PresentationValue><![CDATA[1]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95646">
+        <Name><![CDATA[Intel® My WiFi Technology (Intel® MWT)]]></Name>
+        <Label><![CDATA[intel®_my_wifi_technology_(intel®_mwt)]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95648">
+        <Name><![CDATA[Intel® Hyper Threading Technology (Intel® HT Technology)]]></Name>
+        <Label><![CDATA[intel®_hyper_threading_technology_(intel®_ht_technology)]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95649">
+        <Name><![CDATA[Enhanced Intel SpeedStep Technology]]></Name>
+        <Label><![CDATA[enhanced_intel_speedstep_technology]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95650">
+        <Name><![CDATA[Intel® Clear Video HD Technology (Intel® CVT HD)]]></Name>
+        <Label><![CDATA[intel®_clear_video_hd_technology_(intel®_cvt_hd)]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95651">
+        <Name><![CDATA[Intel Clear Video Technology]]></Name>
+        <Label><![CDATA[intel_clear_video_technology]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95653">
+        <Name><![CDATA[Intel® Quick Sync Video Technology]]></Name>
+        <Label><![CDATA[intel®_quick_sync_video_technology]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95654">
+        <Name><![CDATA[Intel Flex Memory Access]]></Name>
+        <Label><![CDATA[intel_flex_memory_access]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95655">
+        <Name><![CDATA[Intel Trusted Execution Technology]]></Name>
+        <Label><![CDATA[intel_trusted_execution_technology]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95657">
+        <Name><![CDATA[Intel VT-x with Extended Page Tables (EPT)]]></Name>
+        <Label><![CDATA[intel_vt-x_with_extended_page_tables_(ept)]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95658">
+        <Name><![CDATA[Intel® Secure Key]]></Name>
+        <Label><![CDATA[intel®_secure_key]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95659">
+        <Name><![CDATA[Intel TSX-NI]]></Name>
+        <Label><![CDATA[intel_tsx-ni]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95660">
+        <Name><![CDATA[Intel Stable Image Platform Program (SIPP)]]></Name>
+        <Label><![CDATA[intel_stable_image_platform_program_(sipp)]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95661">
+        <Name><![CDATA[Intel® OS Guard]]></Name>
+        <Label><![CDATA[intel®_os_guard]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95662">
+        <Name><![CDATA[Intel Software Guard Extensions (Intel SGX)]]></Name>
+        <Label><![CDATA[intel_software_guard_extensions_(intel_sgx)]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95664">
+        <Name><![CDATA[Execute Disable Bit]]></Name>
+        <Label><![CDATA[execute_disable_bit]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95665">
+        <Name><![CDATA[Idle States]]></Name>
+        <Label><![CDATA[idle_states]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95666">
+        <Name><![CDATA[Thermal Monitoring Technologies]]></Name>
+        <Label><![CDATA[thermal_monitoring_technologies]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95667">
+        <Name><![CDATA[Supported instruction sets]]></Name>
+        <Label><![CDATA[supported_instruction_sets]]></Label>
+        <Value><![CDATA[SSE4.1,SSE4.2,AVX 2.0]]></Value>
+        <PresentationValue><![CDATA[SSE4.1,SSE4.2,AVX 2.0]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95668">
+        <Name><![CDATA[CPU configuration (max)]]></Name>
+        <Label><![CDATA[cpu_configuration_(max)]]></Label>
+        <Value><![CDATA[1]]></Value>
+        <PresentationValue><![CDATA[1]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95669">
+        <Name><![CDATA[Intel Virtualization Technology for Directed I/O (VT-d)]]></Name>
+        <Label><![CDATA[intel_virtualization_technology_for_directed_i/o_(vt-d)]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95670">
+        <Name><![CDATA[Number of battery cells]]></Name>
+        <Label><![CDATA[number_of_battery_cells]]></Label>
+        <Value><![CDATA[3]]></Value>
+        <PresentationValue><![CDATA[3]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95671">
+        <Name><![CDATA[Battery capacity (Watt hours)]]></Name>
+        <Label><![CDATA[battery_capacity]]></Label>
+        <Value><![CDATA[42]]></Value>
+        <PresentationValue><![CDATA[42]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95676">
+        <Name><![CDATA[Manual]]></Name>
+        <Label><![CDATA[manual]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95904">
+        <Name><![CDATA[Configurable TDP-down]]></Name>
+        <Label><![CDATA[configurable_tdp-down]]></Label>
+        <Value><![CDATA[10]]></Value>
+        <PresentationValue><![CDATA[10]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95905">
+        <Name><![CDATA[Configurable TDP-down frequency]]></Name>
+        <Label><![CDATA[configurable_tdp-down_frequency]]></Label>
+        <Value><![CDATA[0.8]]></Value>
+        <PresentationValue><![CDATA[0.8]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95906">
+        <Name><![CDATA[Number of hard drives installed]]></Name>
+        <Label><![CDATA[number_of_hard_drives_installed]]></Label>
+        <Value><![CDATA[1]]></Value>
+        <PresentationValue><![CDATA[1]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95907">
+        <Name><![CDATA[Hard drive capacity]]></Name>
+        <Label><![CDATA[hard_drive_capacity]]></Label>
+        <Value><![CDATA[1000]]></Value>
+        <PresentationValue><![CDATA[1000]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95908">
+        <Name><![CDATA[Hard drive speed]]></Name>
+        <Label><![CDATA[hard_drive_speed]]></Label>
+        <Value><![CDATA[5400]]></Value>
+        <PresentationValue><![CDATA[5400]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95910">
+        <Name><![CDATA[Keyboard backlit]]></Name>
+        <Label><![CDATA[keyboard_backlit]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95914">
+        <Name><![CDATA[Password protection]]></Name>
+        <Label><![CDATA[password_protection]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="96136">
+        <Name><![CDATA[Memory form factor]]></Name>
+        <Label><![CDATA[memory_form_factor]]></Label>
+        <Value><![CDATA[SO-DIMM]]></Value>
+        <PresentationValue><![CDATA[SO-DIMM]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="96277">
+        <Name><![CDATA[Internal memory type]]></Name>
+        <Label><![CDATA[internal_memory_type]]></Label>
+        <Value><![CDATA[DDR4-SDRAM]]></Value>
+        <PresentationValue><![CDATA[DDR4-SDRAM]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="96278">
+        <Name><![CDATA[Memory clock speed]]></Name>
+        <Label><![CDATA[memory_clock_speed]]></Label>
+        <Value><![CDATA[2666]]></Value>
+        <PresentationValue><![CDATA[2666]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="97432">
+        <Name><![CDATA[Speakers manufacturer]]></Name>
+        <Label><![CDATA[speakers_manufacturer]]></Label>
+        <Value><![CDATA[Waves]]></Value>
+        <PresentationValue><![CDATA[Waves]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="97511">
+        <Name><![CDATA[Power cord included]]></Name>
+        <Label><![CDATA[power_cord_included]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99764">
+        <Name><![CDATA[Display brightness]]></Name>
+        <Label><![CDATA[display_brightness]]></Label>
+        <Value><![CDATA[220]]></Value>
+        <PresentationValue><![CDATA[220]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99767">
+        <Name><![CDATA[Processor manufacturer]]></Name>
+        <Label><![CDATA[processor_manufacturer]]></Label>
+        <Value><![CDATA[Intel]]></Value>
+        <PresentationValue><![CDATA[Intel]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99771">
+        <Name><![CDATA[Number of built-in speakers]]></Name>
+        <Label><![CDATA[number_of_built-in_speakers]]></Label>
+        <Value><![CDATA[2]]></Value>
+        <PresentationValue><![CDATA[2]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99773">
+        <Name><![CDATA[Front camera resolution]]></Name>
+        <Label><![CDATA[front_camera_resolution]]></Label>
+        <Value><![CDATA[1280 x 720]]></Value>
+        <PresentationValue><![CDATA[1280 x 720]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99795">
+        <Name><![CDATA[Height (front)]]></Name>
+        <Label><![CDATA[height_(front)]]></Label>
+        <Value><![CDATA[19.9]]></Value>
+        <PresentationValue><![CDATA[19.9]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99796">
+        <Name><![CDATA[Height (rear)]]></Name>
+        <Label><![CDATA[height_(rear)]]></Label>
+        <Value><![CDATA[21]]></Value>
+        <PresentationValue><![CDATA[21]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="101711">
+        <Name><![CDATA[Charging port type]]></Name>
+        <Label><![CDATA[charging_port_type]]></Label>
+        <Value><![CDATA[DC-in jack]]></Value>
+        <PresentationValue><![CDATA[DC-in jack]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="102544">
+        <Name><![CDATA[Panel type]]></Name>
+        <Label><![CDATA[panel_type]]></Label>
+        <Value><![CDATA[TN]]></Value>
+        <PresentationValue><![CDATA[TN]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="102545">
+        <Name><![CDATA[Front camera HD type]]></Name>
+        <Label><![CDATA[front_camera_hd_type]]></Label>
+        <Value><![CDATA[HD]]></Value>
+        <PresentationValue><![CDATA[HD]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="102546">
+        <Name><![CDATA[Antenna type]]></Name>
+        <Label><![CDATA[antenna_type]]></Label>
+        <Value><![CDATA[1x1]]></Value>
+        <PresentationValue><![CDATA[1x1]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="102550">
+        <Name><![CDATA[HDMI version]]></Name>
+        <Label><![CDATA[hdmi_version]]></Label>
+        <Value><![CDATA[1.4b]]></Value>
+        <PresentationValue><![CDATA[1.4b]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="102674">
+        <Name><![CDATA[Hard drive interface]]></Name>
+        <Label><![CDATA[hard_drive_interface]]></Label>
+        <Value><![CDATA[SATA]]></Value>
+        <PresentationValue><![CDATA[SATA]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="102676">
+        <Name><![CDATA[Front camera signal format]]></Name>
+        <Label><![CDATA[front_camera_signal_format]]></Label>
+        <Value><![CDATA[720p]]></Value>
+        <PresentationValue><![CDATA[720p]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="103318">
+        <Name><![CDATA[Maximum internal memory (64-bit)]]></Name>
+        <Label><![CDATA[maximum_internal_memory_(64-bit)]]></Label>
+        <Value><![CDATA[16]]></Value>
+        <PresentationValue><![CDATA[16]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="103320">
+        <Name><![CDATA[Audio chip]]></Name>
+        <Label><![CDATA[audio_chip]]></Label>
+        <Value><![CDATA[Realtek ALC3204]]></Value>
+        <PresentationValue><![CDATA[Realtek ALC3204]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="103326">
+        <Name><![CDATA[Market positioning]]></Name>
+        <Label><![CDATA[market_positioning]]></Label>
+        <Value><![CDATA[Business]]></Value>
+        <PresentationValue><![CDATA[Business]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="103558">
+        <Name><![CDATA[Trial software]]></Name>
+        <Label><![CDATA[trial_software]]></Label>
+        <Value><![CDATA[McAfee Small Business Security 30 Day,Microsoft Office 30 Day]]></Value>
+        <PresentationValue><![CDATA[McAfee Small Business Security 30 Day,Microsoft Office 30 Day]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="104225">
+        <Name><![CDATA[Video capturing speed]]></Name>
+        <Label><![CDATA[video_capturing_speed]]></Label>
+        <Value><![CDATA[30]]></Value>
+        <PresentationValue><![CDATA[30]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="104234">
+        <Name><![CDATA[Operating system language]]></Name>
+        <Label><![CDATA[operating_system_language]]></Label>
+        <Value><![CDATA[ENG,ESP,FRE]]></Value>
+        <PresentationValue><![CDATA[ENG,ESP,FRE]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="104235">
+        <Name><![CDATA[Battery voltage]]></Name>
+        <Label><![CDATA[battery_voltage]]></Label>
+        <Value><![CDATA[11.4]]></Value>
+        <PresentationValue><![CDATA[11.4]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="104237">
+        <Name><![CDATA[Battery weight]]></Name>
+        <Label><![CDATA[battery_weight]]></Label>
+        <Value><![CDATA[200]]></Value>
+        <PresentationValue><![CDATA[200]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="105150">
+        <Name><![CDATA[Operating temperature (T-T)]]></Name>
+        <Label><![CDATA[operating_temperature_(t-t)]]></Label>
+        <Value><![CDATA[0 - 40]]></Value>
+        <PresentationValue><![CDATA[0 - 40]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="105151">
+        <Name><![CDATA[Storage temperature (T-T)]]></Name>
+        <Label><![CDATA[storage_temperature_(t-t)]]></Label>
+        <Value><![CDATA[-40 - 65]]></Value>
+        <PresentationValue><![CDATA[-40 - 65]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="105152">
+        <Name><![CDATA[Operating relative humidity (H-H)]]></Name>
+        <Label><![CDATA[operating_relative_humidity_(h-h)]]></Label>
+        <Value><![CDATA[10 - 90]]></Value>
+        <PresentationValue><![CDATA[10 - 90]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="105153">
+        <Name><![CDATA[Storage relative humidity (H-H)]]></Name>
+        <Label><![CDATA[storage_relative_humidity_(h-h)]]></Label>
+        <Value><![CDATA[0 - 95]]></Value>
+        <PresentationValue><![CDATA[0 - 95]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="105154">
+        <Name><![CDATA[Operating altitude]]></Name>
+        <Label><![CDATA[operating_altitude]]></Label>
+        <Value><![CDATA[0 - 3048]]></Value>
+        <PresentationValue><![CDATA[0 - 3048]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="105155">
+        <Name><![CDATA[Non-operating altitude]]></Name>
+        <Label><![CDATA[non-operating_altitude]]></Label>
+        <Value><![CDATA[0 - 10668]]></Value>
+        <PresentationValue><![CDATA[0 - 10668]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="105156">
+        <Name><![CDATA[Operating shock]]></Name>
+        <Label><![CDATA[operating_shock]]></Label>
+        <Value><![CDATA[140]]></Value>
+        <PresentationValue><![CDATA[140]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="105157">
+        <Name><![CDATA[Non-operating shock]]></Name>
+        <Label><![CDATA[non-operating_shock]]></Label>
+        <Value><![CDATA[160]]></Value>
+        <PresentationValue><![CDATA[160]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="105158">
+        <Name><![CDATA[Operating vibration]]></Name>
+        <Label><![CDATA[operating_vibration]]></Label>
+        <Value><![CDATA[0.66]]></Value>
+        <PresentationValue><![CDATA[0.66]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="105159">
+        <Name><![CDATA[Non-operating vibration]]></Name>
+        <Label><![CDATA[non-operating_vibration]]></Label>
+        <Value><![CDATA[1.3]]></Value>
+        <PresentationValue><![CDATA[1.3]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="106839">
+        <Name><![CDATA[Cables included]]></Name>
+        <Label><![CDATA[cables_included]]></Label>
+        <Value><![CDATA[AC]]></Value>
+        <PresentationValue><![CDATA[AC]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="106883">
+        <Name><![CDATA[Hard drive size]]></Name>
+        <Label><![CDATA[hard_drive_size]]></Label>
+        <Value><![CDATA[2.5]]></Value>
+        <PresentationValue><![CDATA[2.5]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="117317">
+        <Name><![CDATA[Total HDDs capacity]]></Name>
+        <Label><![CDATA[total_hdds_capacity]]></Label>
+        <Value><![CDATA[1000]]></Value>
+        <PresentationValue><![CDATA[1000]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="118073">
+        <Name><![CDATA[Maximum refresh rate]]></Name>
+        <Label><![CDATA[maximum_refresh_rate]]></Label>
+        <Value><![CDATA[60]]></Value>
+        <PresentationValue><![CDATA[60]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120304">
+        <Name><![CDATA[Dual-screen]]></Name>
+        <Label><![CDATA[dual-screen]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120442">
+        <Name><![CDATA[Mobile network connection]]></Name>
+        <Label><![CDATA[mobile_network_connection]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="123108">
+        <Name><![CDATA[Configurable TDP-up frequency]]></Name>
+        <Label><![CDATA[configurable_tdp-up_frequency]]></Label>
+        <Value><![CDATA[2.1]]></Value>
+        <PresentationValue><![CDATA[2.1]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="123109">
+        <Name><![CDATA[Configurable TDP-up]]></Name>
+        <Label><![CDATA[configurable_tdp-up]]></Label>
+        <Value><![CDATA[25]]></Value>
+        <PresentationValue><![CDATA[25]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="123802">
+        <Name><![CDATA[Colour of product]]></Name>
+        <Label><![CDATA[product_colour]]></Label>
+        <Value><![CDATA[Black]]></Value>
+        <PresentationValue><![CDATA[Black]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="123803">
+        <Name><![CDATA[Form factor]]></Name>
+        <Label><![CDATA[form_factor]]></Label>
+        <Value><![CDATA[Clamshell]]></Value>
+        <PresentationValue><![CDATA[Clamshell]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="146758">
+        <Name><![CDATA[Processor generation]]></Name>
+        <Label><![CDATA[processor_generation]]></Label>
+        <Value><![CDATA[Intel Core i5-10xxx]]></Value>
+        <PresentationValue><![CDATA[Intel Core i5-10xxx]]></PresentationValue>
+      </Attribute>
+    </Attributes>
+    <RelatedProducts/>
+  </Product>
+  <Product ID="1762579">
+    <SKU><![CDATA[SONY_VPCCW21FX/L]]></SKU>
+    <MPN><![CDATA[VPCCW21FX/L]]></MPN>
+    <Brand>
+      <BrandID>68679</BrandID>
+      <BrandName><![CDATA[Sony]]></BrandName>
+    </Brand>
+    <ProductType>notebooks</ProductType>
+    <Category>
+      <CategoryId>5459</CategoryId>
+      <CategoryName><![CDATA[Notebooks]]></CategoryName>
+      <IcecatUnspsc>43171801</IcecatUnspsc>
+    </Category>
+    <Description>
+      <ProductName><![CDATA[Sony VAIO VPCCW21FX i3-330M 35,6 cm (14") Intel® Core™ i3 4 GB DDR3-SDRAM 500 GB Unidad de disco duro NVIDIA® GeForce® 310M Windows 7 Home Premium Azul]]></ProductName>
+      <LongDescription><![CDATA[<p>Sony VAIO VPCCW21FX. Familia de procesador: Intel&reg; Core&trade; i3, Modelo del procesador: i3-330M, Frecuencia del procesador: 2,13 GHz. Diagonal de la pantalla: 35,6 cm (14&quot;), Resoluci&oacute;n de la pantalla: 1366 x 768 Pixeles. Memoria interna: 4 GB, Tipo de memoria interna: DDR3-SDRAM. Capacidad total de almacenaje: 500 GB, Unidad de almacenamiento: Unidad de disco duro, Tipo de unidad &oacute;ptica: DVD Super Multi. Modelo de adaptador gr&aacute;fico incorporado: Intel&reg; HD Graphics, Modelo de adaptador de gr&aacute;ficos discretos: NVIDIA&reg; GeForce&reg; 310M. Sistema operativo instalado: Windows 7 Home Premium. Color del producto: Azul. Peso: 2,4 kg</p>]]></LongDescription>
+    </Description>
+    <Warehouses>
+      <Warehouse>
+        <WarehouseId>30</WarehouseId>
+        <WarehouseName>Supplier Y</WarehouseName>
+        <IsSelected>true</IsSelected>
+        <WarehouseRecommendedRetailPrice>5.0000</WarehouseRecommendedRetailPrice>
+        <Stock>5</Stock>
+        <DPN>VPCCW21FX/L</DPN>
+      </Warehouse>
+    </Warehouses>
+    <Attributes>
+      <Attribute ID="94662">
+        <Name><![CDATA[Display resolution]]></Name>
+        <Label><![CDATA[display_resolution]]></Label>
+        <Value><![CDATA[1366 x 768]]></Value>
+        <PresentationValue><![CDATA[1366 x 768]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94666">
+        <Name><![CDATA[LED backlight]]></Name>
+        <Label><![CDATA[led_backlight]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94669">
+        <Name><![CDATA[Processor frequency]]></Name>
+        <Label><![CDATA[processor_frequency]]></Label>
+        <Value><![CDATA[2.13]]></Value>
+        <PresentationValue><![CDATA[2.13]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94670">
+        <Name><![CDATA[Processor family]]></Name>
+        <Label><![CDATA[processor_family]]></Label>
+        <Value><![CDATA[Intel Core i3]]></Value>
+        <PresentationValue><![CDATA[Intel Core i3]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94671">
+        <Name><![CDATA[Processor model]]></Name>
+        <Label><![CDATA[processor_model]]></Label>
+        <Value><![CDATA[i3-330M]]></Value>
+        <PresentationValue><![CDATA[i3-330M]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94673">
+        <Name><![CDATA[Processor cores]]></Name>
+        <Label><![CDATA[processor_cores]]></Label>
+        <Value><![CDATA[2]]></Value>
+        <PresentationValue><![CDATA[2]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94674">
+        <Name><![CDATA[Processor threads]]></Name>
+        <Label><![CDATA[processor_threads]]></Label>
+        <Value><![CDATA[4]]></Value>
+        <PresentationValue><![CDATA[4]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94675">
+        <Name><![CDATA[Processor cache]]></Name>
+        <Label><![CDATA[processor_cache]]></Label>
+        <Value><![CDATA[3]]></Value>
+        <PresentationValue><![CDATA[3]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94676">
+        <Name><![CDATA[Processor cache type]]></Name>
+        <Label><![CDATA[processor_cache_type]]></Label>
+        <Value><![CDATA[Smart Cache]]></Value>
+        <PresentationValue><![CDATA[Smart Cache]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94677">
+        <Name><![CDATA[Processor socket]]></Name>
+        <Label><![CDATA[processor_socket]]></Label>
+        <Value><![CDATA[BGA 1288]]></Value>
+        <PresentationValue><![CDATA[BGA 1288]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94678">
+        <Name><![CDATA[Processor lithography]]></Name>
+        <Label><![CDATA[processor_lithography]]></Label>
+        <Value><![CDATA[32]]></Value>
+        <PresentationValue><![CDATA[32]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94679">
+        <Name><![CDATA[Processor operating modes]]></Name>
+        <Label><![CDATA[processor_operating_modes]]></Label>
+        <Value><![CDATA[64-bit]]></Value>
+        <PresentationValue><![CDATA[64-bit]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94680">
+        <Name><![CDATA[Processor series]]></Name>
+        <Label><![CDATA[processor_series]]></Label>
+        <Value><![CDATA[Intel Core i3-300 Mobile series]]></Value>
+        <PresentationValue><![CDATA[Intel Core i3-300 Mobile series]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94681">
+        <Name><![CDATA[Processor codename]]></Name>
+        <Label><![CDATA[processor_codename]]></Label>
+        <Value><![CDATA[Arrandale]]></Value>
+        <PresentationValue><![CDATA[Arrandale]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94683">
+        <Name><![CDATA[Tjunction]]></Name>
+        <Label><![CDATA[tjunction]]></Label>
+        <Value><![CDATA[105]]></Value>
+        <PresentationValue><![CDATA[105]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94684">
+        <Name><![CDATA[Maximum number of PCI Express lanes]]></Name>
+        <Label><![CDATA[maximum_number_of_pci_express_lanes]]></Label>
+        <Value><![CDATA[16]]></Value>
+        <PresentationValue><![CDATA[16]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94685">
+        <Name><![CDATA[PCI Express slots version]]></Name>
+        <Label><![CDATA[pci_express_slots_version]]></Label>
+        <Value><![CDATA[2.0]]></Value>
+        <PresentationValue><![CDATA[2.0]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94686">
+        <Name><![CDATA[PCI Express configurations]]></Name>
+        <Label><![CDATA[pci_express_configurations]]></Label>
+        <Value><![CDATA[1x16]]></Value>
+        <PresentationValue><![CDATA[1x16]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94688">
+        <Name><![CDATA[Internal memory]]></Name>
+        <Label><![CDATA[internal_memory]]></Label>
+        <Value><![CDATA[4]]></Value>
+        <PresentationValue><![CDATA[4]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94690">
+        <Name><![CDATA[Total storage capacity]]></Name>
+        <Label><![CDATA[total_storage_capacity]]></Label>
+        <Value><![CDATA[500]]></Value>
+        <PresentationValue><![CDATA[500]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94691">
+        <Name><![CDATA[Storage media]]></Name>
+        <Label><![CDATA[storage_media]]></Label>
+        <Value><![CDATA[HDD]]></Value>
+        <PresentationValue><![CDATA[HDD]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94692">
+        <Name><![CDATA[Card reader integrated]]></Name>
+        <Label><![CDATA[card_reader_integrated]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94693">
+        <Name><![CDATA[Compatible memory cards]]></Name>
+        <Label><![CDATA[compatible_memory_cards]]></Label>
+        <Value><![CDATA[Memory Stick (MS),MS Duo,MS PRO,SD]]></Value>
+        <PresentationValue><![CDATA[Memory Stick (MS),MS Duo,MS PRO,SD]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94695">
+        <Name><![CDATA[On-board graphics adapter]]></Name>
+        <Label><![CDATA[on-board_graphics_card]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94696">
+        <Name><![CDATA[Discrete graphics adapter]]></Name>
+        <Label><![CDATA[discrete_graphics_card]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94697">
+        <Name><![CDATA[On-board graphics adapter model]]></Name>
+        <Label><![CDATA[on-board_graphics_card_model]]></Label>
+        <Value><![CDATA[Intel HD Graphics]]></Value>
+        <PresentationValue><![CDATA[Intel HD Graphics]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94698">
+        <Name><![CDATA[Discrete graphics adapter model]]></Name>
+        <Label><![CDATA[discrete_graphics_card_model]]></Label>
+        <Value><![CDATA[NVIDIA GeForce 310M]]></Value>
+        <PresentationValue><![CDATA[NVIDIA GeForce 310M]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94699">
+        <Name><![CDATA[On-board graphics adapter family]]></Name>
+        <Label><![CDATA[on-board_graphics_card_family]]></Label>
+        <Value><![CDATA[Intel HD Graphics]]></Value>
+        <PresentationValue><![CDATA[Intel HD Graphics]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94700">
+        <Name><![CDATA[On-board graphics adapter base frequency]]></Name>
+        <Label><![CDATA[on-board_graphics_card_base_frequency]]></Label>
+        <Value><![CDATA[500]]></Value>
+        <PresentationValue><![CDATA[500]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94702">
+        <Name><![CDATA[On-board graphics adapter dynamic frequency (max)]]></Name>
+        <Label><![CDATA[on-board_graphics_card_dynamic_frequency_(max)]]></Label>
+        <Value><![CDATA[667]]></Value>
+        <PresentationValue><![CDATA[667]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94707">
+        <Name><![CDATA[Audio system]]></Name>
+        <Label><![CDATA[audio_system]]></Label>
+        <Value><![CDATA[Intel High Definition Audio]]></Value>
+        <PresentationValue><![CDATA[Intel High Definition Audio]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94709">
+        <Name><![CDATA[Built-in microphone]]></Name>
+        <Label><![CDATA[built-in_microphone]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94715">
+        <Name><![CDATA[Optical drive type]]></Name>
+        <Label><![CDATA[optical_drive_type]]></Label>
+        <Value><![CDATA[DVD Super Multi]]></Value>
+        <PresentationValue><![CDATA[DVD Super Multi]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94717">
+        <Name><![CDATA[Bluetooth]]></Name>
+        <Label><![CDATA[bluetooth]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94721">
+        <Name><![CDATA[Wi-Fi]]></Name>
+        <Label><![CDATA[wi-fi]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94722">
+        <Name><![CDATA[Wi-Fi standards]]></Name>
+        <Label><![CDATA[wi-fi_standards]]></Label>
+        <Value><![CDATA[802.11b,802.11g,Wi-Fi 4 (802.11n)]]></Value>
+        <PresentationValue><![CDATA[802.11b,802.11g,Wi-Fi 4 (802.11n)]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94723">
+        <Name><![CDATA[Ethernet LAN]]></Name>
+        <Label><![CDATA[ethernet_lan]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94724">
+        <Name><![CDATA[Bluetooth version]]></Name>
+        <Label><![CDATA[bluetooth_version]]></Label>
+        <Value><![CDATA[2.1+EDR]]></Value>
+        <PresentationValue><![CDATA[2.1+EDR]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94726">
+        <Name><![CDATA[USB 2.0 ports quantity]]></Name>
+        <Label><![CDATA[usb_2.0_ports_quantity]]></Label>
+        <Value><![CDATA[3]]></Value>
+        <PresentationValue><![CDATA[3]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94728">
+        <Name><![CDATA[DVI port]]></Name>
+        <Label><![CDATA[dvi_port]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94734">
+        <Name><![CDATA[Numeric keypad]]></Name>
+        <Label><![CDATA[numeric_keypad]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94735">
+        <Name><![CDATA[Pointing device]]></Name>
+        <Label><![CDATA[pointing_device]]></Label>
+        <Value><![CDATA[Touchpad]]></Value>
+        <PresentationValue><![CDATA[Touchpad]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94739">
+        <Name><![CDATA[Operating system installed]]></Name>
+        <Label><![CDATA[operating_system_installed]]></Label>
+        <Value><![CDATA[Windows 7 Home Premium]]></Value>
+        <PresentationValue><![CDATA[Windows 7 Home Premium]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94740">
+        <Name><![CDATA[Operating system architecture]]></Name>
+        <Label><![CDATA[operating_system_architecture]]></Label>
+        <Value><![CDATA[64-bit]]></Value>
+        <PresentationValue><![CDATA[64-bit]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94742">
+        <Name><![CDATA[Intel® Wireless Display (Intel® WiDi)]]></Name>
+        <Label><![CDATA[intel®_wireless_display_(intel®_widi)]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94745">
+        <Name><![CDATA[Intel® Turbo Boost Technology]]></Name>
+        <Label><![CDATA[intel®_turbo_boost_technology]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94746">
+        <Name><![CDATA[Intel® AES New Instructions (Intel® AES-NI)]]></Name>
+        <Label><![CDATA[intel®_aes_new_instructions_(intel®_aes-ni)]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94747">
+        <Name><![CDATA[Intel 64]]></Name>
+        <Label><![CDATA[intel_64]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94748">
+        <Name><![CDATA[Processor package size]]></Name>
+        <Label><![CDATA[processor_package_size]]></Label>
+        <Value><![CDATA[rPGA 37.5x 37.5, BGA 34x28]]></Value>
+        <PresentationValue><![CDATA[rPGA 37.5x 37.5, BGA 34x28]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94749">
+        <Name><![CDATA[Processor code]]></Name>
+        <Label><![CDATA[processor_code]]></Label>
+        <Value><![CDATA[SLBNF]]></Value>
+        <PresentationValue><![CDATA[SLBNF]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94750">
+        <Name><![CDATA[Embedded options available]]></Name>
+        <Label><![CDATA[embedded_options_available]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94751">
+        <Name><![CDATA[Intel Virtualization Technology (VT-x)]]></Name>
+        <Label><![CDATA[intel_virtualization_technology_(vt-x)]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94752">
+        <Name><![CDATA[Processor ARK ID]]></Name>
+        <Label><![CDATA[processor_ark_id]]></Label>
+        <Value><![CDATA[47663]]></Value>
+        <PresentationValue><![CDATA[47663]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94753">
+        <Name><![CDATA[Conflict Free processor]]></Name>
+        <Label><![CDATA[conflict_free_processor]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94755">
+        <Name><![CDATA[Battery technology]]></Name>
+        <Label><![CDATA[battery_technology]]></Label>
+        <Value><![CDATA[Lithium-Ion (Li-Ion)]]></Value>
+        <PresentationValue><![CDATA[Lithium-Ion (Li-Ion)]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94767">
+        <Name><![CDATA[Weight]]></Name>
+        <Label><![CDATA[weight]]></Label>
+        <Value><![CDATA[2404]]></Value>
+        <PresentationValue><![CDATA[2404]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94776">
+        <Name><![CDATA[AC adapter included]]></Name>
+        <Label><![CDATA[ac_adapter_included]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94780">
+        <Name><![CDATA[Product family]]></Name>
+        <Label><![CDATA[product_family]]></Label>
+        <Value><![CDATA[VAIO]]></Value>
+        <PresentationValue><![CDATA[VAIO]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="94781">
+        <Name><![CDATA[Product series]]></Name>
+        <Label><![CDATA[product_series]]></Label>
+        <Value><![CDATA[CW]]></Value>
+        <PresentationValue><![CDATA[CW]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95625">
+        <Name><![CDATA[System bus rate]]></Name>
+        <Label><![CDATA[system_bus_rate]]></Label>
+        <Value><![CDATA[2.5]]></Value>
+        <PresentationValue><![CDATA[2.5]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95626">
+        <Name><![CDATA[Bus type]]></Name>
+        <Label><![CDATA[bus_type]]></Label>
+        <Value><![CDATA[DMI]]></Value>
+        <PresentationValue><![CDATA[DMI]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95627">
+        <Name><![CDATA[Motherboard chipset]]></Name>
+        <Label><![CDATA[motherboard_chipset]]></Label>
+        <Value><![CDATA[Intel PM55 Express]]></Value>
+        <PresentationValue><![CDATA[Intel PM55 Express]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95628">
+        <Name><![CDATA[Thermal Design Power (TDP)]]></Name>
+        <Label><![CDATA[thermal_design_power_(tdp)]]></Label>
+        <Value><![CDATA[35]]></Value>
+        <PresentationValue><![CDATA[35]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95629">
+        <Name><![CDATA[ECC supported by processor]]></Name>
+        <Label><![CDATA[ecc_supported_by_processor]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95630">
+        <Name><![CDATA[Maximum internal memory]]></Name>
+        <Label><![CDATA[maximum_internal_memory]]></Label>
+        <Value><![CDATA[8]]></Value>
+        <PresentationValue><![CDATA[8]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95640">
+        <Name><![CDATA[Ethernet LAN data rates]]></Name>
+        <Label><![CDATA[ethernet_lan_data_rates]]></Label>
+        <Value><![CDATA[10,100,1000]]></Value>
+        <PresentationValue><![CDATA[10,100,1000]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95643">
+        <Name><![CDATA[HDMI ports quantity]]></Name>
+        <Label><![CDATA[hdmi_ports_quantity]]></Label>
+        <Value><![CDATA[1]]></Value>
+        <PresentationValue><![CDATA[1]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95644">
+        <Name><![CDATA[Ethernet LAN (RJ-45) ports]]></Name>
+        <Label><![CDATA[ethernet_lan_(rj-45)_ports]]></Label>
+        <Value><![CDATA[1]]></Value>
+        <PresentationValue><![CDATA[1]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95645">
+        <Name><![CDATA[VGA (D-Sub) ports quantity]]></Name>
+        <Label><![CDATA[vga_(d-sub)_ports_quantity]]></Label>
+        <Value><![CDATA[1]]></Value>
+        <PresentationValue><![CDATA[1]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95646">
+        <Name><![CDATA[Intel® My WiFi Technology (Intel® MWT)]]></Name>
+        <Label><![CDATA[intel®_my_wifi_technology_(intel®_mwt)]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95648">
+        <Name><![CDATA[Intel® Hyper Threading Technology (Intel® HT Technology)]]></Name>
+        <Label><![CDATA[intel®_hyper_threading_technology_(intel®_ht_technology)]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95649">
+        <Name><![CDATA[Enhanced Intel SpeedStep Technology]]></Name>
+        <Label><![CDATA[enhanced_intel_speedstep_technology]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95650">
+        <Name><![CDATA[Intel® Clear Video HD Technology (Intel® CVT HD)]]></Name>
+        <Label><![CDATA[intel®_clear_video_hd_technology_(intel®_cvt_hd)]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95651">
+        <Name><![CDATA[Intel Clear Video Technology]]></Name>
+        <Label><![CDATA[intel_clear_video_technology]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95652">
+        <Name><![CDATA[Intel® InTru™ 3D Technology]]></Name>
+        <Label><![CDATA[intel®_intru™_3d_technology]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95653">
+        <Name><![CDATA[Intel® Quick Sync Video Technology]]></Name>
+        <Label><![CDATA[intel®_quick_sync_video_technology]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95654">
+        <Name><![CDATA[Intel Flex Memory Access]]></Name>
+        <Label><![CDATA[intel_flex_memory_access]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95655">
+        <Name><![CDATA[Intel Trusted Execution Technology]]></Name>
+        <Label><![CDATA[intel_trusted_execution_technology]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95656">
+        <Name><![CDATA[Intel Enhanced Halt State]]></Name>
+        <Label><![CDATA[intel_enhanced_halt_state]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95657">
+        <Name><![CDATA[Intel VT-x with Extended Page Tables (EPT)]]></Name>
+        <Label><![CDATA[intel_vt-x_with_extended_page_tables_(ept)]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95663">
+        <Name><![CDATA[Intel® Clear Video Technology for Mobile Internet Devices (Intel CVT for MID)]]></Name>
+        <Label><![CDATA[intel®_clear_video_technology_for_mobile_internet_devices_(intel_cvt_for_mid)]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95664">
+        <Name><![CDATA[Execute Disable Bit]]></Name>
+        <Label><![CDATA[execute_disable_bit]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95665">
+        <Name><![CDATA[Idle States]]></Name>
+        <Label><![CDATA[idle_states]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95666">
+        <Name><![CDATA[Thermal Monitoring Technologies]]></Name>
+        <Label><![CDATA[thermal_monitoring_technologies]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95667">
+        <Name><![CDATA[Supported instruction sets]]></Name>
+        <Label><![CDATA[supported_instruction_sets]]></Label>
+        <Value><![CDATA[SSE4.1,SSE4.2]]></Value>
+        <PresentationValue><![CDATA[SSE4.1,SSE4.2]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95668">
+        <Name><![CDATA[CPU configuration (max)]]></Name>
+        <Label><![CDATA[cpu_configuration_(max)]]></Label>
+        <Value><![CDATA[1]]></Value>
+        <PresentationValue><![CDATA[1]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95669">
+        <Name><![CDATA[Intel Virtualization Technology for Directed I/O (VT-d)]]></Name>
+        <Label><![CDATA[intel_virtualization_technology_for_directed_i/o_(vt-d)]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95673">
+        <Name><![CDATA[Cable lock slot]]></Name>
+        <Label><![CDATA[cable_lock_slot]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95674">
+        <Name><![CDATA[Cable lock slot type]]></Name>
+        <Label><![CDATA[cable_lock_slot_type]]></Label>
+        <Value><![CDATA[Kensington]]></Value>
+        <PresentationValue><![CDATA[Kensington]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95903">
+        <Name><![CDATA[Stepping]]></Name>
+        <Label><![CDATA[stepping]]></Label>
+        <Value><![CDATA[C2]]></Value>
+        <PresentationValue><![CDATA[C2]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95906">
+        <Name><![CDATA[Number of hard drives installed]]></Name>
+        <Label><![CDATA[number_of_hard_drives_installed]]></Label>
+        <Value><![CDATA[1]]></Value>
+        <PresentationValue><![CDATA[1]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95907">
+        <Name><![CDATA[Hard drive capacity]]></Name>
+        <Label><![CDATA[hard_drive_capacity]]></Label>
+        <Value><![CDATA[500]]></Value>
+        <PresentationValue><![CDATA[500]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95908">
+        <Name><![CDATA[Hard drive speed]]></Name>
+        <Label><![CDATA[hard_drive_speed]]></Label>
+        <Value><![CDATA[5400]]></Value>
+        <PresentationValue><![CDATA[5400]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95909">
+        <Name><![CDATA[Microphone in]]></Name>
+        <Label><![CDATA[microphone_in]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95912">
+        <Name><![CDATA[Intel® Insider™]]></Name>
+        <Label><![CDATA[intel®_insider™]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95913">
+        <Name><![CDATA[Graphics & IMC lithography]]></Name>
+        <Label><![CDATA[graphics_&_imc_lithography]]></Label>
+        <Value><![CDATA[45]]></Value>
+        <PresentationValue><![CDATA[45]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="96139">
+        <Name><![CDATA[Intel® Smart Cache]]></Name>
+        <Label><![CDATA[intel®_smart_cache]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="96277">
+        <Name><![CDATA[Internal memory type]]></Name>
+        <Label><![CDATA[internal_memory_type]]></Label>
+        <Value><![CDATA[DDR3-SDRAM]]></Value>
+        <PresentationValue><![CDATA[DDR3-SDRAM]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="96278">
+        <Name><![CDATA[Memory clock speed]]></Name>
+        <Label><![CDATA[memory_clock_speed]]></Label>
+        <Value><![CDATA[1066]]></Value>
+        <PresentationValue><![CDATA[1066]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="96282">
+        <Name><![CDATA[Intel® Anti-Theft Technology (Intel® AT)]]></Name>
+        <Label><![CDATA[intel®_anti-theft_technology_(intel®_at)]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="96286">
+        <Name><![CDATA[Intel Rapid Storage Technology]]></Name>
+        <Label><![CDATA[intel_rapid_storage_technology]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99766">
+        <Name><![CDATA[FSB Parity]]></Name>
+        <Label><![CDATA[fsb_parity]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99767">
+        <Name><![CDATA[Processor manufacturer]]></Name>
+        <Label><![CDATA[processor_manufacturer]]></Label>
+        <Value><![CDATA[Intel]]></Value>
+        <PresentationValue><![CDATA[Intel]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99769">
+        <Name><![CDATA[CPU multiplier (bus/core ratio)]]></Name>
+        <Label><![CDATA[cpu_multiplier_(bus/core_ratio)]]></Label>
+        <Value><![CDATA[16]]></Value>
+        <PresentationValue><![CDATA[16]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99770">
+        <Name><![CDATA[Built-in speaker(s)]]></Name>
+        <Label><![CDATA[built-in_speaker(s)]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99775">
+        <Name><![CDATA[LightScribe]]></Name>
+        <Label><![CDATA[lightscribe]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99778">
+        <Name><![CDATA[Cabling technology]]></Name>
+        <Label><![CDATA[cabling_technology]]></Label>
+        <Value><![CDATA[10/100/1000Base-T(X)]]></Value>
+        <PresentationValue><![CDATA[10/100/1000Base-T(X)]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99780">
+        <Name><![CDATA[Headphone outputs]]></Name>
+        <Label><![CDATA[headphone_outputs]]></Label>
+        <Value><![CDATA[1]]></Value>
+        <PresentationValue><![CDATA[1]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99781">
+        <Name><![CDATA[S/PDIF out port]]></Name>
+        <Label><![CDATA[s/pdif_out_port]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99782">
+        <Name><![CDATA[ExpressCard slot]]></Name>
+        <Label><![CDATA[expresscard_slot]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99783">
+        <Name><![CDATA[CardBus PCMCIA slot type]]></Name>
+        <Label><![CDATA[cardbus_pcmcia_slot_type]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99784">
+        <Name><![CDATA[SmartCard slot]]></Name>
+        <Label><![CDATA[smartcard_slot]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99789">
+        <Name><![CDATA[Intel Demand Based Switching]]></Name>
+        <Label><![CDATA[intel_demand_based_switching]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99791">
+        <Name><![CDATA[Intel Dual Display Capable Technology]]></Name>
+        <Label><![CDATA[intel_dual_display_capable_technology]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99792">
+        <Name><![CDATA[Intel FDI Technology]]></Name>
+        <Label><![CDATA[intel_fdi_technology]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99793">
+        <Name><![CDATA[Intel Fast Memory Access]]></Name>
+        <Label><![CDATA[intel_fast_memory_access]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99797">
+        <Name><![CDATA[Width (imperial)]]></Name>
+        <Label><![CDATA[width_(imperial)]]></Label>
+        <Value><![CDATA[13.44]]></Value>
+        <PresentationValue><![CDATA[13.44]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99798">
+        <Name><![CDATA[Depth (imperial)]]></Name>
+        <Label><![CDATA[depth_(imperial)]]></Label>
+        <Value><![CDATA[9.18]]></Value>
+        <PresentationValue><![CDATA[9.18]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99799">
+        <Name><![CDATA[Height (front) (imperial)]]></Name>
+        <Label><![CDATA[height_(front)_(imperial)]]></Label>
+        <Value><![CDATA[1.09]]></Value>
+        <PresentationValue><![CDATA[1.09]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="99800">
+        <Name><![CDATA[Height (rear) (imperial)]]></Name>
+        <Label><![CDATA[height_(rear)_(imperial)]]></Label>
+        <Value><![CDATA[1.52]]></Value>
+        <PresentationValue><![CDATA[1.52]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="101711">
+        <Name><![CDATA[Charging port type]]></Name>
+        <Label><![CDATA[charging_port_type]]></Label>
+        <Value><![CDATA[DC-in jack]]></Value>
+        <PresentationValue><![CDATA[DC-in jack]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="102673">
+        <Name><![CDATA[Memory layout (slots x size)]]></Name>
+        <Label><![CDATA[memory_layout_(slots_x_size)]]></Label>
+        <Value><![CDATA[2 x 2]]></Value>
+        <PresentationValue><![CDATA[2 x 2]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="102674">
+        <Name><![CDATA[Hard drive interface]]></Name>
+        <Label><![CDATA[hard_drive_interface]]></Label>
+        <Value><![CDATA[SATA]]></Value>
+        <PresentationValue><![CDATA[SATA]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="102835">
+        <Name><![CDATA[Discrete graphics adapter memory]]></Name>
+        <Label><![CDATA[discrete_graphics_card_memory]]></Label>
+        <Value><![CDATA[0.25]]></Value>
+        <PresentationValue><![CDATA[0.25]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="106838">
+        <Name><![CDATA[Battery capacity]]></Name>
+        <Label><![CDATA[battery_capacity]]></Label>
+        <Value><![CDATA[4400]]></Value>
+        <PresentationValue><![CDATA[4400]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="109584">
+        <Name><![CDATA[Keyboard layout]]></Name>
+        <Label><![CDATA[keyboard_layout]]></Label>
+        <Value><![CDATA[QWERTY]]></Value>
+        <PresentationValue><![CDATA[QWERTY]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120305">
+        <Name><![CDATA[Number of Processing Die Transistors]]></Name>
+        <Label><![CDATA[number_of_processing_die_transistors]]></Label>
+        <Value><![CDATA[382]]></Value>
+        <PresentationValue><![CDATA[382]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120306">
+        <Name><![CDATA[Processing Die size]]></Name>
+        <Label><![CDATA[processing_die_size]]></Label>
+        <Value><![CDATA[81]]></Value>
+        <PresentationValue><![CDATA[81]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120308">
+        <Name><![CDATA[CD read speed]]></Name>
+        <Label><![CDATA[cd_read_speed]]></Label>
+        <Value><![CDATA[24]]></Value>
+        <PresentationValue><![CDATA[24]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120309">
+        <Name><![CDATA[CD write speed]]></Name>
+        <Label><![CDATA[cd_write_speed]]></Label>
+        <Value><![CDATA[24]]></Value>
+        <PresentationValue><![CDATA[24]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120311">
+        <Name><![CDATA[CD-R read speed]]></Name>
+        <Label><![CDATA[cd-r_read_speed]]></Label>
+        <Value><![CDATA[24]]></Value>
+        <PresentationValue><![CDATA[24]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120312">
+        <Name><![CDATA[CD-R write speed]]></Name>
+        <Label><![CDATA[cd-r_write_speed]]></Label>
+        <Value><![CDATA[24]]></Value>
+        <PresentationValue><![CDATA[24]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120313">
+        <Name><![CDATA[CD-RW read speed]]></Name>
+        <Label><![CDATA[cd-rw_read_speed]]></Label>
+        <Value><![CDATA[24]]></Value>
+        <PresentationValue><![CDATA[24]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120314">
+        <Name><![CDATA[CD-RW write speed]]></Name>
+        <Label><![CDATA[cd-rw_write_speed]]></Label>
+        <Value><![CDATA[10]]></Value>
+        <PresentationValue><![CDATA[10]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120315">
+        <Name><![CDATA[DVD-R read speed]]></Name>
+        <Label><![CDATA[dvd-r_read_speed]]></Label>
+        <Value><![CDATA[8]]></Value>
+        <PresentationValue><![CDATA[8]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120316">
+        <Name><![CDATA[DVD-R write speed]]></Name>
+        <Label><![CDATA[dvd-r_write_speed]]></Label>
+        <Value><![CDATA[8]]></Value>
+        <PresentationValue><![CDATA[8]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120317">
+        <Name><![CDATA[DVD-R Double Layer read speed]]></Name>
+        <Label><![CDATA[dvd-r_double_layer_read_speed]]></Label>
+        <Value><![CDATA[8]]></Value>
+        <PresentationValue><![CDATA[8]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120318">
+        <Name><![CDATA[DVD-R Double Layer write speed]]></Name>
+        <Label><![CDATA[dvd-r_double_layer_write_speed]]></Label>
+        <Value><![CDATA[6]]></Value>
+        <PresentationValue><![CDATA[6]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120319">
+        <Name><![CDATA[DVD-RW read speed]]></Name>
+        <Label><![CDATA[dvd-rw_read_speed]]></Label>
+        <Value><![CDATA[8]]></Value>
+        <PresentationValue><![CDATA[8]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120320">
+        <Name><![CDATA[DVD-RW write speed]]></Name>
+        <Label><![CDATA[dvd-rw_write_speed]]></Label>
+        <Value><![CDATA[6]]></Value>
+        <PresentationValue><![CDATA[6]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120321">
+        <Name><![CDATA[DVD+R read speed]]></Name>
+        <Label><![CDATA[dvd+r_read_speed]]></Label>
+        <Value><![CDATA[8]]></Value>
+        <PresentationValue><![CDATA[8]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120322">
+        <Name><![CDATA[DVD+R write speed]]></Name>
+        <Label><![CDATA[dvd+r_write_speed]]></Label>
+        <Value><![CDATA[8]]></Value>
+        <PresentationValue><![CDATA[8]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120323">
+        <Name><![CDATA[DVD+R Double Layer read speed]]></Name>
+        <Label><![CDATA[dvd+r_double_layer_read_speed]]></Label>
+        <Value><![CDATA[8]]></Value>
+        <PresentationValue><![CDATA[8]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120324">
+        <Name><![CDATA[DVD+R Double Layer write speed]]></Name>
+        <Label><![CDATA[dvd+r_double_layer_write_speed]]></Label>
+        <Value><![CDATA[6]]></Value>
+        <PresentationValue><![CDATA[6]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120325">
+        <Name><![CDATA[DVD+RW read speed]]></Name>
+        <Label><![CDATA[dvd+rw_read_speed]]></Label>
+        <Value><![CDATA[8]]></Value>
+        <PresentationValue><![CDATA[8]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120326">
+        <Name><![CDATA[DVD+RW write speed]]></Name>
+        <Label><![CDATA[dvd+rw_write_speed]]></Label>
+        <Value><![CDATA[8]]></Value>
+        <PresentationValue><![CDATA[8]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120327">
+        <Name><![CDATA[DVD-RAM read speed]]></Name>
+        <Label><![CDATA[dvd-ram_read_speed]]></Label>
+        <Value><![CDATA[5]]></Value>
+        <PresentationValue><![CDATA[5]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120328">
+        <Name><![CDATA[DVD-RAM write speed]]></Name>
+        <Label><![CDATA[dvd-ram_write_speed]]></Label>
+        <Value><![CDATA[5]]></Value>
+        <PresentationValue><![CDATA[5]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120329">
+        <Name><![CDATA[Networking topology]]></Name>
+        <Label><![CDATA[networking_topology]]></Label>
+        <Value><![CDATA[Gigabit Ethernet]]></Value>
+        <PresentationValue><![CDATA[Gigabit Ethernet]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120330">
+        <Name><![CDATA[Keyboard number of keys]]></Name>
+        <Label><![CDATA[keyboard_number_of_keys]]></Label>
+        <Value><![CDATA[82]]></Value>
+        <PresentationValue><![CDATA[82]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120331">
+        <Name><![CDATA[Physical Address Extension (PAE)]]></Name>
+        <Label><![CDATA[physical_address_extension_(pae)]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120332">
+        <Name><![CDATA[Physical Address Extension (PAE)]]></Name>
+        <Label><![CDATA[physical_address_extension_(pae)]]></Label>
+        <Value><![CDATA[36]]></Value>
+        <PresentationValue><![CDATA[36]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120333">
+        <Name><![CDATA[Wireless technology]]></Name>
+        <Label><![CDATA[wireless_technology]]></Label>
+        <Value><![CDATA[Wi-Fi]]></Value>
+        <PresentationValue><![CDATA[Wi-Fi]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120335">
+        <Name><![CDATA[Infrared data port]]></Name>
+        <Label><![CDATA[infrared_data_port]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120336">
+        <Name><![CDATA[Graphics adapter family]]></Name>
+        <Label><![CDATA[graphics_adapter_family]]></Label>
+        <Value><![CDATA[NVIDIA]]></Value>
+        <PresentationValue><![CDATA[NVIDIA]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120337">
+        <Name><![CDATA[Type]]></Name>
+        <Label><![CDATA[type]]></Label>
+        <Value><![CDATA[PC]]></Value>
+        <PresentationValue><![CDATA[PC]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120340">
+        <Name><![CDATA[TV tuner integrated]]></Name>
+        <Label><![CDATA[tv_tuner_integrated]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120849">
+        <Name><![CDATA[Firewire (IEEE 1394) ports]]></Name>
+        <Label><![CDATA[firewire_(ieee_1394)_ports]]></Label>
+        <Value><![CDATA[1]]></Value>
+        <PresentationValue><![CDATA[1]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="122442">
+        <Name><![CDATA[Sustainability certificates]]></Name>
+        <Label><![CDATA[sustainability_certificates]]></Label>
+        <Value><![CDATA[RoHS,EPEAT Gold,ENERGY STAR]]></Value>
+        <PresentationValue><![CDATA[RoHS,EPEAT Gold,ENERGY STAR]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="122479">
+        <Name><![CDATA[Native aspect ratio]]></Name>
+        <Label><![CDATA[native_aspect_ratio]]></Label>
+        <Value><![CDATA[16:9]]></Value>
+        <PresentationValue><![CDATA[16:9]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="123802">
+        <Name><![CDATA[Colour of product]]></Name>
+        <Label><![CDATA[product_colour]]></Label>
+        <Value><![CDATA[Blue]]></Value>
+        <PresentationValue><![CDATA[Blue]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="146758">
+        <Name><![CDATA[Processor generation]]></Name>
+        <Label><![CDATA[processor_generation]]></Label>
+        <Value><![CDATA[Intel Core i3-3xxx]]></Value>
+        <PresentationValue><![CDATA[Intel Core i3-3xxx]]></PresentationValue>
+      </Attribute>
+    </Attributes>
+    <RelatedProducts/>
+  </Product>
+  <Product ID="1762580">
+    <SKU><![CDATA[APPLE_MF502LL/A]]></SKU>
+    <MPN><![CDATA[MF502LL/A]]></MPN>
+    <Brand>
+      <BrandID>68683</BrandID>
+      <BrandName><![CDATA[Apple]]></BrandName>
+    </Brand>
+    <ProductType>tablets</ProductType>
+    <Category>
+      <CategoryId>5715</CategoryId>
+      <CategoryName><![CDATA[Tablets]]></CategoryName>
+      <IcecatUnspsc>43211509</IcecatUnspsc>
+    </Category>
+    <Description>
+      <ProductName><![CDATA[Apple iPad Air 4G LTE 16 GB 24,6 cm (9.7") Wi-Fi 4 (802.11n) iOS Plata]]></ProductName>
+      <LongDescription><![CDATA[<p>Apple iPad Air. Diagonal de la pantalla: 24,6 cm (9.7&quot;), Resoluci&oacute;n de la pantalla: 2048 x 1536 Pixeles. Capacidad de almacenamiento interno: 16 GB. Familia de procesador: Apple, Modelo del procesador: A7. Resoluci&oacute;n de la c&aacute;mara trasera (num&eacute;rica): 5 MP, Tipo de c&aacute;mara trasera: C&aacute;mara &uacute;nica, Resoluci&oacute;n de la c&aacute;mara frontal (num&eacute;rica): 1,2 MP, C&aacute;mara frontal. Est&aacute;ndar Wi-Fi: Wi-Fi 4 (802.11n). Funci&oacute;n de GPS asistida (A-GPS). Peso: 478 g. Sistema operativo instalado: iOS. Color del producto: Plata</p>]]></LongDescription>
+    </Description>
+    <Warehouses>
+      <Warehouse>
+        <WarehouseId>30</WarehouseId>
+        <WarehouseName>Supplier Y</WarehouseName>
+        <IsSelected>true</IsSelected>
+        <WarehouseRecommendedRetailPrice>5.0000</WarehouseRecommendedRetailPrice>
+        <Stock>5</Stock>
+        <DPN>MF502LL/A</DPN>
+      </Warehouse>
+    </Warehouses>
+    <Attributes>
+      <Attribute ID="95448">
+        <Name><![CDATA[Display resolution]]></Name>
+        <Label><![CDATA[display_resolution]]></Label>
+        <Value><![CDATA[2048 x 1536]]></Value>
+        <PresentationValue><![CDATA[2048 x 1536]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95455">
+        <Name><![CDATA[Processor family]]></Name>
+        <Label><![CDATA[processor_family]]></Label>
+        <Value><![CDATA[Apple]]></Value>
+        <PresentationValue><![CDATA[Apple]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95456">
+        <Name><![CDATA[Processor model]]></Name>
+        <Label><![CDATA[processor_model]]></Label>
+        <Value><![CDATA[A7]]></Value>
+        <PresentationValue><![CDATA[A7]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95457">
+        <Name><![CDATA[Processor cores]]></Name>
+        <Label><![CDATA[processor_cores]]></Label>
+        <Value><![CDATA[2]]></Value>
+        <PresentationValue><![CDATA[2]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95462">
+        <Name><![CDATA[Internal storage capacity]]></Name>
+        <Label><![CDATA[internal_storage_capacity]]></Label>
+        <Value><![CDATA[16]]></Value>
+        <PresentationValue><![CDATA[16]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95463">
+        <Name><![CDATA[Card reader integrated]]></Name>
+        <Label><![CDATA[card_reader_integrated]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95464">
+        <Name><![CDATA[Compatible memory cards]]></Name>
+        <Label><![CDATA[compatible_memory_cards]]></Label>
+        <Value><![CDATA[Not supported]]></Value>
+        <PresentationValue><![CDATA[Not supported]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95465">
+        <Name><![CDATA[Storage media]]></Name>
+        <Label><![CDATA[storage_media]]></Label>
+        <Value><![CDATA[Flash]]></Value>
+        <PresentationValue><![CDATA[Flash]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95468">
+        <Name><![CDATA[Built-in speaker(s)]]></Name>
+        <Label><![CDATA[built-in_speaker(s)]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95469">
+        <Name><![CDATA[Built-in microphone]]></Name>
+        <Label><![CDATA[built-in_microphone]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95470">
+        <Name><![CDATA[Number of built-in speakers]]></Name>
+        <Label><![CDATA[number_of_built-in_speakers]]></Label>
+        <Value><![CDATA[2]]></Value>
+        <PresentationValue><![CDATA[2]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95472">
+        <Name><![CDATA[Rear camera]]></Name>
+        <Label><![CDATA[rear_camera]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95473">
+        <Name><![CDATA[Rear camera resolution (numeric)]]></Name>
+        <Label><![CDATA[rear_camera_resolution_(numeric)]]></Label>
+        <Value><![CDATA[5]]></Value>
+        <PresentationValue><![CDATA[5]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95474">
+        <Name><![CDATA[Front camera]]></Name>
+        <Label><![CDATA[front_camera]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95475">
+        <Name><![CDATA[Auto focus]]></Name>
+        <Label><![CDATA[auto_focus]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95476">
+        <Name><![CDATA[Front camera resolution (numeric)]]></Name>
+        <Label><![CDATA[front_camera_resolution_(numeric)]]></Label>
+        <Value><![CDATA[1.2]]></Value>
+        <PresentationValue><![CDATA[1.2]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95480">
+        <Name><![CDATA[Bluetooth]]></Name>
+        <Label><![CDATA[bluetooth]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95481">
+        <Name><![CDATA[Top Wi-Fi standard]]></Name>
+        <Label><![CDATA[top_wi-fi_standard]]></Label>
+        <Value><![CDATA[Wi-Fi 4 (802.11n)]]></Value>
+        <PresentationValue><![CDATA[Wi-Fi 4 (802.11n)]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95482">
+        <Name><![CDATA[Wi-Fi standards]]></Name>
+        <Label><![CDATA[wi-fi_standards]]></Label>
+        <Value><![CDATA[802.11a,802.11b,802.11g]]></Value>
+        <PresentationValue><![CDATA[802.11a,802.11b,802.11g]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95483">
+        <Name><![CDATA[Bluetooth version]]></Name>
+        <Label><![CDATA[bluetooth_version]]></Label>
+        <Value><![CDATA[4.0]]></Value>
+        <PresentationValue><![CDATA[4.0]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95486">
+        <Name><![CDATA[Headphone out]]></Name>
+        <Label><![CDATA[headphone_out]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95488">
+        <Name><![CDATA[Combo headphone/mic port]]></Name>
+        <Label><![CDATA[combo_headphone/mic_port]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95490">
+        <Name><![CDATA[Form factor]]></Name>
+        <Label><![CDATA[form_factor]]></Label>
+        <Value><![CDATA[Slate]]></Value>
+        <PresentationValue><![CDATA[Slate]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95491">
+        <Name><![CDATA[Colour of product]]></Name>
+        <Label><![CDATA[product_colour]]></Label>
+        <Value><![CDATA[Silver]]></Value>
+        <PresentationValue><![CDATA[Silver]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95492">
+        <Name><![CDATA[Device type]]></Name>
+        <Label><![CDATA[device_type]]></Label>
+        <Value><![CDATA[Full-size tablet]]></Value>
+        <PresentationValue><![CDATA[Full-size tablet]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95494">
+        <Name><![CDATA[Position location]]></Name>
+        <Label><![CDATA[position_location]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95495">
+        <Name><![CDATA[Accelerometer]]></Name>
+        <Label><![CDATA[accelerometer]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95496">
+        <Name><![CDATA[Ambient light sensor]]></Name>
+        <Label><![CDATA[ambient_light_sensor]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95497">
+        <Name><![CDATA[GPS (satellite)]]></Name>
+        <Label><![CDATA[gps_(satellite)]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95498">
+        <Name><![CDATA[Electronic compass]]></Name>
+        <Label><![CDATA[electronic_compass]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95500">
+        <Name><![CDATA[Platform]]></Name>
+        <Label><![CDATA[platform]]></Label>
+        <Value><![CDATA[iOS]]></Value>
+        <PresentationValue><![CDATA[iOS]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95501">
+        <Name><![CDATA[Operating system installed]]></Name>
+        <Label><![CDATA[operating_system_installed]]></Label>
+        <Value><![CDATA[iOS]]></Value>
+        <PresentationValue><![CDATA[iOS]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95502">
+        <Name><![CDATA[Operating system version]]></Name>
+        <Label><![CDATA[operating_system_version]]></Label>
+        <Value><![CDATA[7]]></Value>
+        <PresentationValue><![CDATA[7]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95504">
+        <Name><![CDATA[Battery technology]]></Name>
+        <Label><![CDATA[battery_technology]]></Label>
+        <Value><![CDATA[Lithium Polymer (LiPo)]]></Value>
+        <PresentationValue><![CDATA[Lithium Polymer (LiPo)]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95506">
+        <Name><![CDATA[Battery life (max)]]></Name>
+        <Label><![CDATA[battery_life_(max)]]></Label>
+        <Value><![CDATA[10]]></Value>
+        <PresentationValue><![CDATA[10]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95507">
+        <Name><![CDATA[Battery capacity (Watt hours)]]></Name>
+        <Label><![CDATA[battery_capacity_(watt_hours)]]></Label>
+        <Value><![CDATA[32.4]]></Value>
+        <PresentationValue><![CDATA[32.4]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95512">
+        <Name><![CDATA[Width]]></Name>
+        <Label><![CDATA[width]]></Label>
+        <Value><![CDATA[169.5]]></Value>
+        <PresentationValue><![CDATA[169.5]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95513">
+        <Name><![CDATA[Depth]]></Name>
+        <Label><![CDATA[depth]]></Label>
+        <Value><![CDATA[7.5]]></Value>
+        <PresentationValue><![CDATA[7.5]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95514">
+        <Name><![CDATA[Height]]></Name>
+        <Label><![CDATA[height]]></Label>
+        <Value><![CDATA[240]]></Value>
+        <PresentationValue><![CDATA[240]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95515">
+        <Name><![CDATA[Weight]]></Name>
+        <Label><![CDATA[weight]]></Label>
+        <Value><![CDATA[478]]></Value>
+        <PresentationValue><![CDATA[478]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95517">
+        <Name><![CDATA[Keyboard included]]></Name>
+        <Label><![CDATA[keyboard_included]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95519">
+        <Name><![CDATA[Product family]]></Name>
+        <Label><![CDATA[product_family]]></Label>
+        <Value><![CDATA[iPad]]></Value>
+        <PresentationValue><![CDATA[iPad]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="95520">
+        <Name><![CDATA[Product series]]></Name>
+        <Label><![CDATA[product_series]]></Label>
+        <Value><![CDATA[Air]]></Value>
+        <PresentationValue><![CDATA[Air]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="96616">
+        <Name><![CDATA[Touchscreen type]]></Name>
+        <Label><![CDATA[touchscreen_type]]></Label>
+        <Value><![CDATA[Capacitive]]></Value>
+        <PresentationValue><![CDATA[Capacitive]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="96619">
+        <Name><![CDATA[Headphone connectivity]]></Name>
+        <Label><![CDATA[headphone_connectivity]]></Label>
+        <Value><![CDATA[3.5 mm]]></Value>
+        <PresentationValue><![CDATA[3.5 mm]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="97465">
+        <Name><![CDATA[Video recording]]></Name>
+        <Label><![CDATA[video_recording]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="97466">
+        <Name><![CDATA[Assisted GPS (A-GPS)]]></Name>
+        <Label><![CDATA[assisted_gps_(a-gps)]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="97469">
+        <Name><![CDATA[64-bit computing]]></Name>
+        <Label><![CDATA[64-bit_computing]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="102931">
+        <Name><![CDATA[Maximum video resolution]]></Name>
+        <Label><![CDATA[maximum_video_resolution]]></Label>
+        <Value><![CDATA[1920 x 1080]]></Value>
+        <PresentationValue><![CDATA[1920 x 1080]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="102932">
+        <Name><![CDATA[Video recording modes]]></Name>
+        <Label><![CDATA[video_recording_modes]]></Label>
+        <Value><![CDATA[1080p,720p]]></Value>
+        <PresentationValue><![CDATA[1080p,720p]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="102934">
+        <Name><![CDATA[Geotagging]]></Name>
+        <Label><![CDATA[geotagging]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="102938">
+        <Name><![CDATA[E-mail]]></Name>
+        <Label><![CDATA[e-mail]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="102940">
+        <Name><![CDATA[Gyroscope]]></Name>
+        <Label><![CDATA[gyroscope]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="103981">
+        <Name><![CDATA[Audio formats supported]]></Name>
+        <Label><![CDATA[audio_formats_supported]]></Label>
+        <Value><![CDATA[AAC,AAX,AAX+,AIFF,HE-AAC,M4A,MP3,WAV]]></Value>
+        <PresentationValue><![CDATA[AAC,AAX,AAX+,AIFF,HE-AAC,M4A,MP3,WAV]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="103982">
+        <Name><![CDATA[Image formats supported]]></Name>
+        <Label><![CDATA[image_formats_supported]]></Label>
+        <Value><![CDATA[GIF,JPG,TIF]]></Value>
+        <PresentationValue><![CDATA[GIF,JPG,TIF]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="103983">
+        <Name><![CDATA[Video formats supported]]></Name>
+        <Label><![CDATA[video_formats_supported]]></Label>
+        <Value><![CDATA[AVI,M4V,MOV,MP4]]></Value>
+        <PresentationValue><![CDATA[AVI,M4V,MOV,MP4]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="107213">
+        <Name><![CDATA[2G standards]]></Name>
+        <Label><![CDATA[2g_standards]]></Label>
+        <Value><![CDATA[EDGE,GSM]]></Value>
+        <PresentationValue><![CDATA[EDGE,GSM]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="107214">
+        <Name><![CDATA[3G standards]]></Name>
+        <Label><![CDATA[3g_standards]]></Label>
+        <Value><![CDATA[EVDO,HSDPA,HSPA,HSPA+,UMTS]]></Value>
+        <PresentationValue><![CDATA[EVDO,HSDPA,HSPA,HSPA+,UMTS]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="107215">
+        <Name><![CDATA[4G standard]]></Name>
+        <Label><![CDATA[4g_standard]]></Label>
+        <Value><![CDATA[LTE]]></Value>
+        <PresentationValue><![CDATA[LTE]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="107219">
+        <Name><![CDATA[SIM card type]]></Name>
+        <Label><![CDATA[sim_card_type]]></Label>
+        <Value><![CDATA[NanoSIM]]></Value>
+        <PresentationValue><![CDATA[NanoSIM]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="107221">
+        <Name><![CDATA[Mobile High-Definition Link (MHL)]]></Name>
+        <Label><![CDATA[mobile_high-definition_link_(mhl)]]></Label>
+        <Value><![CDATA[N]]></Value>
+        <PresentationValue><![CDATA[N]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="107223">
+        <Name><![CDATA[Voice call]]></Name>
+        <Label><![CDATA[voice_call]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="107224">
+        <Name><![CDATA[Video call]]></Name>
+        <Label><![CDATA[video_call]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="107256">
+        <Name><![CDATA[Video compression formats]]></Name>
+        <Label><![CDATA[video_compression_formats]]></Label>
+        <Value><![CDATA[H.264,M-JPEG,MPEG4]]></Value>
+        <PresentationValue><![CDATA[H.264,M-JPEG,MPEG4]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="107258">
+        <Name><![CDATA[AC adapter included]]></Name>
+        <Label><![CDATA[ac_adapter_included]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="107783">
+        <Name><![CDATA[Digital zoom]]></Name>
+        <Label><![CDATA[digital_zoom]]></Label>
+        <Value><![CDATA[3]]></Value>
+        <PresentationValue><![CDATA[3]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="108423">
+        <Name><![CDATA[Bundled software]]></Name>
+        <Label><![CDATA[bundled_software]]></Label>
+        <Value><![CDATA[SafariMailiBooksFaceTimeiTunes StoreApp StoreSiriPhoto BoothGame Center]]></Value>
+        <PresentationValue><![CDATA[SafariMailiBooksFaceTimeiTunes StoreApp StoreSiriPhoto BoothGame Center]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="108775">
+        <Name><![CDATA[Instant messaging (IM)]]></Name>
+        <Label><![CDATA[instant_messaging_(im)]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="108778">
+        <Name><![CDATA[Cables included]]></Name>
+        <Label><![CDATA[cables_included]]></Label>
+        <Value><![CDATA[Lightning]]></Value>
+        <PresentationValue><![CDATA[Lightning]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="110003">
+        <Name><![CDATA[Wi-Fi data rate (max)]]></Name>
+        <Label><![CDATA[wi-fi_data_rate_(max)]]></Label>
+        <Value><![CDATA[300]]></Value>
+        <PresentationValue><![CDATA[300]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="119369">
+        <Name><![CDATA[Operating temperature (T-T)]]></Name>
+        <Label><![CDATA[operating_temperature_(t-t)]]></Label>
+        <Value><![CDATA[0 - 35]]></Value>
+        <PresentationValue><![CDATA[0 - 35]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="119370">
+        <Name><![CDATA[Storage temperature (T-T)]]></Name>
+        <Label><![CDATA[storage_temperature_(t-t)]]></Label>
+        <Value><![CDATA[-20 - 45]]></Value>
+        <PresentationValue><![CDATA[-20 - 45]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="119371">
+        <Name><![CDATA[Operating relative humidity (H-H)]]></Name>
+        <Label><![CDATA[operating_relative_humidity_(h-h)]]></Label>
+        <Value><![CDATA[5 - 95]]></Value>
+        <PresentationValue><![CDATA[5 - 95]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120072">
+        <Name><![CDATA[Wi-Fi]]></Name>
+        <Label><![CDATA[wi-fi]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="120411">
+        <Name><![CDATA[Rear camera type]]></Name>
+        <Label><![CDATA[rear_camera_type]]></Label>
+        <Value><![CDATA[Single camera]]></Value>
+        <PresentationValue><![CDATA[Single camera]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="122620">
+        <Name><![CDATA[qwerty]]></Name>
+        <Label><![CDATA[test]]></Label>
+        <Value><![CDATA[Multi-touch]]></Value>
+        <PresentationValue><![CDATA[Multi-touch]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="123689">
+        <Name><![CDATA[Panel type]]></Name>
+        <Label><![CDATA[panel_type]]></Label>
+        <Value><![CDATA[IPS]]></Value>
+        <PresentationValue><![CDATA[IPS]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="146792">
+        <Name><![CDATA[Mobile network connection]]></Name>
+        <Label><![CDATA[mobile_network_connection]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+    </Attributes>
+    <RelatedProducts/>
+  </Product>
+  <Product ID="1762581">
+    <SKU><![CDATA[ZYXEL_NWA210AX-EU0105F]]></SKU>
+    <MPN><![CDATA[NWA210AX-EU0105F]]></MPN>
+    <EANS>
+      <EAN><![CDATA[4718937613038]]></EAN>
+    </EANS>
+    <Brand>
+      <BrandID>114679</BrandID>
+      <BrandName><![CDATA[Zyxel]]></BrandName>
+    </Brand>
+    <ProductType>wireless_access_points</ProductType>
+    <Category>
+      <CategoryId>178071</CategoryId>
+      <CategoryName><![CDATA[Wireless Access Points]]></CategoryName>
+      <IcecatUnspsc>43223108</IcecatUnspsc>
+    </Category>
+    <Description>
+      <ProductName><![CDATA[Zyxel NWA210AX 2975 Mbit/s Blanco Energía sobre Ethernet (PoE)]]></ProductName>
+      <LongDescription><![CDATA[<p>Zyxel NWA210AX. Rango m&aacute;ximo de transferencia de datos: 2975 Mbit/s, Velocidad m&aacute;xima de transferencia de datos (2,4 GHz): 575 Mbit/s, Velocidad m&aacute;xima de transferencia de datos (5 GHz): 2400 Mbit/s. Algoritmos de seguridad soportados: SNMP, WEP, WPA, WPA2-Enterprise, WPA2-PSK, WPA3. Voltaje de entrada AC: 12 V, Corriente de entrada: 2 A, Consumo energ&eacute;tico: 19 W. Color del producto: Blanco, Certificaci&oacute;n: FCC 15C, FCC 15E, ETSI EN 300 328, EN 301 893, LP0002 FCC Part 15B, EN 301 489-1, EN 301 489-17,.... Tipo de antena: Interno, Ganancia de la antena (max): 6 dBi</p>]]></LongDescription>
+    </Description>
+    <Warehouses>
+      <Warehouse>
+        <WarehouseId>30</WarehouseId>
+        <WarehouseName>Supplier Y</WarehouseName>
+        <IsSelected>true</IsSelected>
+        <WarehouseRecommendedRetailPrice>5.0000</WarehouseRecommendedRetailPrice>
+        <Stock>5</Stock>
+        <DPN>NWA210AX</DPN>
+      </Warehouse>
+    </Warehouses>
+    <Attributes>
+      <Attribute ID="150130">
+        <Name><![CDATA[2,4 GHz]]></Name>
+        <Label><![CDATA[2.4_ghz]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="150131">
+        <Name><![CDATA[5 GHz]]></Name>
+        <Label><![CDATA[5_ghz]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="150132">
+        <Name><![CDATA[Rango máximo de transferencia de datos]]></Name>
+        <Label><![CDATA[maximum_data_transfer_rate]]></Label>
+        <Value><![CDATA[2975]]></Value>
+        <PresentationValue><![CDATA[2975]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="150144">
+        <Name><![CDATA[Algoritmos de seguridad soportados]]></Name>
+        <Label><![CDATA[security_algorithms]]></Label>
+        <Value><![CDATA[SNMP,WEP,WPA,WPA2-Enterprise,WPA2-PSK,WPA3]]></Value>
+        <PresentationValue><![CDATA[SNMP,WEP,WPA,WPA2-Enterprise,WPA2-PSK,WPA3]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="150151">
+        <Name><![CDATA[Ethernet LAN (RJ-45) cantidad de puertos]]></Name>
+        <Label><![CDATA[ethernet_lan_(rj-45)_ports]]></Label>
+        <Value><![CDATA[2]]></Value>
+        <PresentationValue><![CDATA[2]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="150154">
+        <Name><![CDATA[Energía sobre Ethernet (PoE)]]></Name>
+        <Label><![CDATA[power_over_ethernet_(poe)]]></Label>
+        <Value><![CDATA[Y]]></Value>
+        <PresentationValue><![CDATA[Y]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="150159">
+        <Name><![CDATA[Color del producto]]></Name>
+        <Label><![CDATA[product_colour]]></Label>
+        <Value><![CDATA[White]]></Value>
+        <PresentationValue><![CDATA[White]]></PresentationValue>
+      </Attribute>
+      <Attribute ID="150162">
+        <Name><![CDATA[Tipo de antena]]></Name>
+        <Label><![CDATA[antenna_type]]></Label>
+        <Value><![CDATA[Internal]]></Value>
+        <PresentationValue><![CDATA[Internal]]></PresentationValue>
+      </Attribute>
+    </Attributes>
+    <RelatedProducts/>
+  </Product>
+</Products>
