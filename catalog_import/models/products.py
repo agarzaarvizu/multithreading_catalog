@@ -74,9 +74,12 @@ class Products:
 
         # Update categories
         categories_found_list = [category.get("Name") for category in product_found.get("Categories")]
+        providers_found_list = [category.get("Metadata").get("name") for category in product_found.get("Categories")]
         categories = product_found.get("Categories").copy()
         for category in product.get("Categories"):
-            if not category.get("Name") in categories_found_list:
+            if not category.get("Name") in categories_found_list and not category.get("Metadata").get("name") in providers_found_list:
+                categories.append(category)
+            elif category.get("Name") in categories_found_list and not category.get("Metadata").get("name") in providers_found_list:
                 categories.append(category)
         if categories != product_found.get("Categories"):
             new_values_dict[":categories"] = categories
@@ -171,7 +174,7 @@ class Products:
         products_response = self.response["Products"]["Product"] if self.response else []
 
         # Iterate over each product in the response
-        for product in products_response:
+        for product in products_response[:10]:
             # Extract EAN values from the product
             ean_value = product.get("EANS", {}).get("EAN")
             ean = [ean_value] if isinstance(ean_value, str) else ean_value
@@ -240,7 +243,7 @@ class Products:
             "UPC",
             "GTIN"
         ]
-        for product_response in self.response:
+        for product_response in self.response[:10]:
             product_values = dict()
             descriptions = dict()
             attributes_list = list()

@@ -52,7 +52,7 @@ def execute(event, context):
     threads = []
     providers_dict = providers.providers
     dynamodb = boto3.resource('dynamodb')
-    db_table = dynamodb.Table('test_multithread_db')
+    db_table = dynamodb.Table('product_catalog')
     for provider_name, provider_values in providers_dict.items():
         metadata = get_metadata(provider_values)
         provider = {
