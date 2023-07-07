@@ -10,19 +10,23 @@ class Connection:
     ...
 
     Attributes:
-        user {string} -- The username for the connection
-        password {string} -- The password for the connection
         provider {object} -- The provider related to the connection
 
     Methods:
         xml_to_dict_response(response) -- Convert the XML response to dict
-        get_metadata_connection() -- Get the metadata of the connection
+        connection_products_list() -- Retrieves a list of products from the provider's products list file
+        get_request(product) -- Sends a GET request to the provider's URL to retrieve data for a specific product
         response_request() -- Get the API response to the provider's request
         response_dict() -- Get the response dict to the provider's request
 
     """
 
     def __init__(self, **kwargs) -> None:
+        """
+        Parameters:
+            provider {object} -- The provider related to the connection
+
+        """
         self.provider = kwargs.get("provider")
 
     def xml_to_dict_response(self, response):
@@ -39,6 +43,12 @@ class Connection:
         return xmltodict.parse(response)
 
     def connection_products_list(self):
+        """
+        Retrieves a list of products from the provider's products list file.
+
+        Returns:
+            products_list {list} -- A list of products retrieved from the provider's products list file.
+        """
         file = open(self.provider.products_list)
         data = json.load(file)
         products_list = [product for product in data]
@@ -46,6 +56,15 @@ class Connection:
         return products_list
 
     def get_request(self, product):
+        """
+        Sends a GET request to the provider's URL to retrieve data for a specific product.
+
+        Arguments:
+            product {str} -- The product identifier or parameter to include in the request URL.
+
+        Returns:
+            request_result {dict} -- The response data retrieved from the provider's API.
+        """
         url = self.provider.url
         request_url = url % product
         response = requests.get(request_url)
